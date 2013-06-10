@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="1">
+  <advance width="733"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="433" y="320" type="line" smooth="no"/>
+      <point x="433" y="69" type="line" smooth="no"/>
+      <point x="532" y="49" type="line" smooth="no"/>
+      <point x="526" y="0" type="line" smooth="no"/>
+      <point x="219" y="0" type="line" smooth="no"/>
+      <point x="225" y="45" type="line" smooth="no"/>
+      <point x="316" y="73" type="line" smooth="no"/>
+      <point x="316" y="306" type="line" smooth="no"/>
+      <point x="102" y="682" type="line" smooth="no"/>
+      <point x="19" y="707" type="line" smooth="no"/>
+      <point x="27" y="753" type="line" smooth="no"/>
+      <point x="334" y="753" type="line" smooth="no"/>
+      <point x="327" y="707" type="line" smooth="no"/>
+      <point x="231" y="684" type="line" smooth="no"/>
+      <point x="399" y="388" type="line" smooth="no"/>
+      <point x="559" y="682" type="line" smooth="no"/>
+      <point x="448" y="707" type="line" smooth="no"/>
+      <point x="454" y="753" type="line" smooth="no"/>
+      <point x="723" y="753" type="line" smooth="no"/>
+      <point x="717" y="707" type="line" smooth="no"/>
+      <point x="642" y="684" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

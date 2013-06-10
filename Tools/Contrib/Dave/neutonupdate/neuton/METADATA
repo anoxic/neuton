@@ -1,0 +1,107 @@
+license: OFL
+payment: DESIGNER
+category: serif
+subsets: menu,latin,latin-ext
+#subsets: menu,latin,latin-ext,hebrew
+
+family: Neuton
+group: Neuton
+font.Neuton-Cursive.ttf.subfamily: Cursive
+
+
+designer: Brian Zick
+
+profiledescriptionlicense: Creative Commons Attribution-ShareAlike 3.0
+profiledescriptionlicenseurl: http://creativecommons.org/licenses/by-sa/3.0/
+approved: true
+description: <p>Neuton is a clean, dark, somewhat \
+  Dutch-inspired serif font which reminds you a little \
+  of Times. It has a large height, short extenders, \
+  and a compact width for better screen use, and \
+  economy of space.</p> \
+  <p>The family will comprise a regular, italic, and \
+  cursive, each in five weights and with smallcaps. \
+  Two italics &mdash; one will be called "italic", and the \
+  other "cursive" &mdash; are uncommon, but very useful. \
+  Ever tried emphasizing something already emphasized? \
+  Beyond that obvious example, there are other uses.</p> \
+  <p>Sometimes a text needs a different flavor or \
+  feel. While one roman can work for a variety of \
+  texts, the companion italics don't always. In \
+  more classical or personal documents, a stiff, \
+  sober, modern and down-to-earth italic will \
+  never work. And in many essays, some of the \
+  fancier italics look ridiculous. Who said a \
+  roman needs only one companion?</p>
+
+
+
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#    --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#    --chars="Neuton" \
+#    ~/googlefontdirectory/neuton/Neuton-Regular.{ttf,menu}; \
+# cd ~/googlefontdirectory/neuton; \
+
+# cd ~/src/font-optimizer; \
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#    --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#    --chars="Neuton Cursive" \
+#    ~/googlefontdirectory/neuton/Neuton-Cursive.{ttf,menu}; \
+# cd ~/googlefontdirectory/neuton; \
+
+
+# cd ~/googlefontdirectory/; \
+# for family in neuton; do \
+#    for font in `ls -1 $family/*ttf | cut -d. -f1`; do \
+#        for subset in \
+#            latin latin-ext; do \
+#            echo subset.py --null --nmr --roundtrip --namelist --script \
+#                --subset=$subset $font.ttf $font.$subset; \
+#            python tools/subset/subset.py  --null --nmr \
+#                --roundtrip --namelist --script --subset=$subset \
+#                $font.ttf $font.$subset > $font.$subset.log; \
+#        done; \
+#    done; \
+# done; \
+# cd ~/googlefontdirectory/neuton; \
+
+# 2011-02-02 DC Add hewbrew subsets when the charset is defined
+#
+# cd ~/src/font-optimizer;
+# ./subset.pl -v --licensesubst="SIL OFL 1.1" \
+#     --exclude="smcp,ordn,sups,sinf,subs,dlig,frac" \
+#     --chars="Neuton עברית()" \
+#    ~/googlefontdirectory/neuton/Neuton-Regular.{ttf,menu};
+#
+# for family in neuton; do
+#    for font in `ls -1 $family/*ttf | cut -d. -f1`; do
+#        for subset in \
+#            latin latin-ext hebrew+latin; do
+#            echo subset.py --null --nmr --roundtrip --namelist --script \
+#                --subset=$subset $font.ttf $font.$subset;
+#            python tools/subset/subset.py  --null --nmr \
+#                --roundtrip --namelist --script --subset=$subset \
+#                $font.ttf $font.$subset > $font.$subset.log;
+#        done;
+#    done;
+# done;
+
+Neuton-Cursive.ttf.style: normal
+Neuton-Cursive.ttf.weight: 400
+
+
+Neuton-ExtraLight.ttf.style: normal
+Neuton-Light.ttf.style: normal
+Neuton-Regular.ttf.style: normal
+Neuton-Italic.ttf.style: italic
+Neuton-Bold.ttf.style: normal
+Neuton-ExtraBold.ttf.style: normal
+
+Neuton-ExtraLight.ttf.weight: 200
+Neuton-Light.ttf.weight: 300
+Neuton-Regular.ttf.weight: 400
+Neuton-Italic.ttf.weight: 400
+Neuton-Bold.ttf.weight: 700
+Neuton-ExtraBold.ttf.ttf.weight: 800
+

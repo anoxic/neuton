@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="1">
+  <advance width="2311"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="53" y="1465.5" type="line" smooth="no"/>
+      <point x="63.5" y="1535" type="line" smooth="no"/>
+      <point x="623.5" y="1535" type="line" smooth="no"/>
+      <point x="612" y="1468" type="line" smooth="no"/>
+      <point x="407" y="1426" type="line" smooth="no"/>
+      <point x="733" y="277.5" type="line" smooth="no"/>
+      <point x="1091" y="1478.5" type="line" smooth="no"/>
+      <point x="1228" y="1497.5" type="line" smooth="no"/>
+      <point x="1555.5" y="287" type="line" smooth="no"/>
+      <point x="1916" y="1420" type="line" smooth="no"/>
+      <point x="1689" y="1467" type="line" smooth="no"/>
+      <point x="1698.5" y="1535" type="line" smooth="no"/>
+      <point x="2213" y="1535" type="line" smooth="no"/>
+      <point x="2203.5" y="1466" type="line" smooth="no"/>
+      <point x="2055.5" y="1424" type="line" smooth="no"/>
+      <point x="1587" y="-5.5" type="line" smooth="no"/>
+      <point x="1451.5" y="-30.5" type="line" smooth="no"/>
+      <point x="1125" y="1198" type="line" smooth="no"/>
+      <point x="767" y="-5.5" type="line" smooth="no"/>
+      <point x="623" y="-30" type="line" smooth="no"/>
+      <point x="215" y="1422" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

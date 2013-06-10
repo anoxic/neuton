@@ -1,0 +1,16 @@
+-rw-r--r--   1 dcrossland  5762   28120 Aug 19 21:42 Neuton-Regular-old.latin
+-rw-r--r--   1 dcrossland  5762   48496 Aug 19 21:42 Neuton-Regular-old.latin-ext
+-rw-r--r--   1 dcrossland  5762   49531 Aug 19 21:42 Neuton-Regular-old.latin-ext.log
+-rw-r--r--   1 dcrossland  5762   24738 Aug 19 21:42 Neuton-Regular-old.latin-ext.ttf.nam
+-rw-r--r--   1 dcrossland  5762     245 Aug 19 21:42 Neuton-Regular-old.latin.log
+-rw-r--r--   1 dcrossland  5762    3061 Aug 19 21:42 Neuton-Regular-old.latin.ttf.nam
+-rw-r--r--   1 dcrossland  5762   12952 Jul 22 13:31 Neuton-Regular-old.menu
+-rw-r--r--   1 dcrossland  5762   56688 Jul 22 13:31 Neuton-Regular-old.ttf
+-rw-r--r--   1 dcrossland  5762   62912 Aug 19 21:42 Neuton-Regular.latin
+-rw-r--r--   1 dcrossland  5762  174580 Aug 19 21:42 Neuton-Regular.latin-ext
+-rw-r--r--   1 dcrossland  5762   49531 Aug 19 21:42 Neuton-Regular.latin-ext.log
+-rw-r--r--   1 dcrossland  5762   24738 Aug 19 21:42 Neuton-Regular.latin-ext.ttf.nam
+-rw-r--r--   1 dcrossland  5762     245 Aug 19 21:42 Neuton-Regular.latin.log
+-rw-r--r--   1 dcrossland  5762    3061 Aug 19 21:42 Neuton-Regular.latin.ttf.nam
+-rw-r--r--   1 dcrossland  5762    4852 Aug 19 21:42 Neuton-Regular.menu
+-rw-r--r--   1 dcrossland  5762   93332 Aug 19 21:36 Neuton-Regular.ttf

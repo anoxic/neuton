@@ -1,0 +1,50 @@
+%!PS-Adobe-2.0 EPSF-3.0
+%%BoundingBox:  -17 -13 199 231
+%%Creator: OTM 2.000
+%%Title: Neuton.otf, s
+%%CreationDate: Fri Oct  8 02:31:17 2010
+%%DocumentProcessColors: Black
+%%DocumentSuppliedResources: procset rwbinterexp_1.0 0 1
+%%EndComments
+%%BeginProlog
+%%BeginResource: procset rwbinterexp_1.0 0 1
+/rwbinterexp_1.0 dup 7 dict def load begin
+% color operators
+/g {setgray} def
+% graphic state operators
+/w {setlinewidth} def
+% path construction operators
+/n {newpath} def
+/c {curveto} def
+/l {lineto} def
+/m {moveto} def
+% path painting operators
+/f {fill} def
+end
+%%EndResource
+%%EndProlog
+%%BeginSetup
+rwbinterexp_1.0 begin
+n
+%%EndSetup
+0 w
+0.000 g
+115.078 34.3364 m
+115.078 20.2144 105.586 15.194 94.5549 15.194 c
+75.3268 15.194 49.4652 38.7737 41.5231 73.3608 c
+7.08587 71.8734 -16.7616 56.5938 -16.7616 30.2947 c
+-16.7616 7.89678 22.2454 -12.8722 85.1224 -12.8722 c
+141.751 -12.8722 198.989 14.4705 198.989 63.1324 c
+198.989 137.929 70.9284 145.577 70.9284 184.228 c
+70.9284 192.297 75.8507 199.124 83.69 199.124 c
+108.476 199.124 128.683 164.413 135.23 141.203 c
+171.409 143.277 193.024 170.888 193.024 186.439 c
+193.024 207.051 160.289 230.869 93.427 230.869 c
+22.3142 230.869 -12.9483 184.518 -12.9483 148.864 c
+-12.9483 71.7783 115.078 60.4034 115.078 34.3364 c
+f
+%%Trailer
+end
+showpage
+%%EOF
+

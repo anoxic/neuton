@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="product" format="1">
+  <advance width="1784"/>
+  <unicode hex="220f"/>
+  <outline>
+    <contour>
+      <point x="102.5" y="1464" type="line" smooth="no"/>
+      <point x="110.5" y="1535" type="line" smooth="no"/>
+      <point x="1742" y="1535" type="line" smooth="no"/>
+      <point x="1731" y="1464" type="line" smooth="no"/>
+      <point x="1525" y="1426" type="line" smooth="no"/>
+      <point x="1525" y="111" type="line" smooth="no"/>
+      <point x="1750" y="78" type="line" smooth="no"/>
+      <point x="1739" y="0" type="line" smooth="no"/>
+      <point x="1124" y="0" type="line" smooth="no"/>
+      <point x="1137" y="71" type="line" smooth="no"/>
+      <point x="1341" y="119" type="line" smooth="no"/>
+      <point x="1341" y="1432" type="line" smooth="no"/>
+      <point x="510.5" y="1431.5" type="line" smooth="no"/>
+      <point x="510.5" y="111" type="line" smooth="no"/>
+      <point x="740" y="78" type="line" smooth="no"/>
+      <point x="725.5" y="0" type="line" smooth="no"/>
+      <point x="111.5" y="0" type="line" smooth="no"/>
+      <point x="119.5" y="71" type="line" smooth="no"/>
+      <point x="325.5" y="119" type="line" smooth="no"/>
+      <point x="325.5" y="1423" type="line" smooth="no"/>
+    </contour>
+  </outline>
+</glyph>

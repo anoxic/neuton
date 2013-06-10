@@ -1,0 +1,28 @@
+### Translation from RTF performed by UnRTF, version 0.19.2
+-----------------
+registered: scaled 45% weight adjusted
+tm: scaled 45% weight adjusted
+ordfem & ordmas: scaled 80%, weight adjusted (same size and pos as superscript)
+
+superscript
+horizontal stems 100
+vertical stems 88
+counter size 58
+vertical scale 60
+
+ degree
+ ordfem
+ ordmas
+ sup
+ tm
+ reg
+ 1/4
+ 1/2
+ 3/4
+
+
+smallcaps:
+
+scaled to osf height
+vert serifs shortened 50 units
+horizontal serifs shortened 30 units

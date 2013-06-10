@@ -1,0 +1,5 @@
+A classy blend of simplification, curvature, and angles. Neuton, when completed, will comprise 60 fonts: 5 weights, with a Regular, Italic, Cursive, extended widths, and smallcaps for each. Neuton is a healthy modern alternative to Times.
+
+Neuton is intended to be a workhorse textface with a range of variants that will alow it to work in the most complicated editorial enviroments, but also work under the rigorous conditions a web font must endure. It's a marathon runner at text sizes, but it has the detail to be smart and proffesional at large sizes.
+
+Neuton Italic is elegant yet strong, intended to work in serious situations. The additional italic—Neuton Cursive—gives a more bookish and mannered flavor. In addition to this, the two italics can be used together to for double emphasis.

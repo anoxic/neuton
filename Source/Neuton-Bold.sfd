@@ -1,0 +1,6337 @@
+SplineFontDB: 3.0
+FontName: Neuton-Bold
+FullName: Neuton Bold
+FamilyName: Neuton
+Weight: Bold
+Copyright: Copyright (c) 2010, 2011 Brian M Zick (http://21326.info/), \nwith Reserved Font Name 'Neuton'.\n\nThis Font Software is licensed under the SIL Open Font License, Version 1.1.\nThis license is available with a FAQ at: http://scripts.sil.org/OFL\n   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\n   See the License for the specific language governing permissions and\n   limitations under the License.
+UComments: "2011-6-14: Created." 
+Version: 1.46
+ItalicAngle: 0
+UnderlinePosition: -361
+UnderlineWidth: 0
+Ascent: 1638
+Descent: 410
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+XUID: [1021 467 2011608612 10656044]
+FSType: 1
+OS2Version: 1
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1308101163
+ModificationTime: 1337498071
+PfmFamily: 17
+TTFWeight: 700
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 2 0 8 3 0 0 0 0 0 0
+OS2TypoAscent: 2106
+OS2TypoAOffset: 0
+OS2TypoDescent: -485
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 2106
+OS2WinAOffset: 0
+OS2WinDescent: 485
+OS2WinDOffset: 0
+HheadAscent: 2106
+HheadAOffset: 0
+HheadDescent: -485
+HheadDOffset: 0
+OS2SubXSize: 1095
+OS2SubYSize: 1179
+OS2SubXOff: 0
+OS2SubYOff: 235
+OS2SupXSize: 1095
+OS2SupYSize: 1179
+OS2SupXOff: 0
+OS2SupYOff: 809
+OS2StrikeYSize: 84
+OS2StrikeYPos: 4436
+OS2Vendor: 'PfEd'
+Lookup: 3 0 0 "Neuton-Regular-'salt' Stylistic Alternates"  {"Neuton-Regular-Alternate Substitution in Latin lookup 0-1"  } ['salt' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3"  {"Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ("sc" ) } ['c2sc' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0"  {"Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ("sc" ) } ['smcp' ('latn' <'dflt' > ) ]
+Lookup: 1 0 0 "Neuton-Regular-'onum' Oldstyle Figures lookup 1"  {"Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" ("osf" ) } ['onum' ('DFLT' <'dflt' > 'hebr' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "" "" "" "" "Brian M Zick" "" "" "http://21326.info/" "Copyright (c) 2010, 2011 Brian (http://21326.info/),+AAoA-with Reserved Font Name +ACIA-Neuton+ACIA.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" 
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 0
+WidthSeparation: 150
+WinInfo: 0 31 14
+BeginPrivate: 0
+EndPrivate
+Grid
+-2048 1302.9 m 0
+ 4096 1302.9 l 0
+-2048 -374.116 m 0
+ 4096 -374.116 l 0
+EndSplineSet
+BeginChars: 65553 243
+
+StartChar: A
+Encoding: 65 65 0
+Width: 1461
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+45 0 m 1
+ 59 106 l 1
+ 213 185 l 1
+ 627 1221 l 1
+ 875 1269 l 1
+ 1265 181 l 1
+ 1408 112 l 1
+ 1397 -1 l 1
+ 777 -1 l 1
+ 791 105 l 1
+ 960 184 l 1
+ 886 392 l 1
+ 481 392 l 1
+ 407 182 l 1
+ 594 114 l 1
+ 581 0 l 1
+ 45 0 l 1
+535 548 m 1
+ 836 548 l 1
+ 690 984 l 1
+ 535 548 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" a.sc
+Colour: ffff
+EndChar
+
+StartChar: AE
+Encoding: 198 198 1
+Width: 1880
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+48 0 m 1
+ 62 119 l 1
+ 198 184 l 1
+ 794 1073 l 1
+ 598 1131 l 1
+ 613 1244 l 1
+ 1770 1244 l 1
+ 1738 876 l 1
+ 1610 896 l 1
+ 1548 1112 l 1
+ 1204 1112 l 1
+ 1213 694 l 1
+ 1408 702 l 1
+ 1444 765 l 1
+ 1580 780 l 1
+ 1547 466 l 1
+ 1422 466 l 1
+ 1392 556 l 1
+ 1216 561 l 1
+ 1224 147 l 1
+ 1590 138 l 1
+ 1713 378 l 1
+ 1836 362 l 1
+ 1806 0 l 1
+ 784 0 l 1
+ 795 106 l 1
+ 960 169 l 1
+ 954 458 l 1
+ 573 458 l 1
+ 398 184 l 1
+ 582 116 l 1
+ 568 0 l 1
+ 48 0 l 1
+651 592 m 1
+ 948 592 l 1
+ 942 1033 l 1
+ 651 592 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ae.sc
+Colour: ffff
+EndChar
+
+StartChar: Aacute
+Encoding: 193 193 2
+Width: 1461
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 S 1 0 0 1 532 30 2
+Refer: 0 65 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" aacute.sc
+Colour: ffff
+EndChar
+
+StartChar: Acircumflex
+Encoding: 194 194 3
+Width: 1461
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 83 710 S 1 0 0 1 462 36 2
+Refer: 0 65 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" acircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: Adieresis
+Encoding: 196 196 4
+Width: 1461
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 S 1 0 0 1 404 36 2
+Refer: 0 65 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" adieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: Agrave
+Encoding: 192 192 5
+Width: 1461
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 116 96 S 1 0 0 1 426 70 2
+Refer: 0 65 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" agrave.sc
+Colour: ffff
+EndChar
+
+StartChar: Aring
+Encoding: 197 197 6
+Width: 1461
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 174 730 S 1 0 0 1 420 -71 2
+Refer: 0 65 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" aring.sc
+Colour: ffff
+EndChar
+
+StartChar: Atilde
+Encoding: 195 195 7
+Width: 1461
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 192 732 S 1 0 0 1 370 47 2
+Refer: 0 65 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" atilde.sc
+Colour: ffff
+EndChar
+
+StartChar: B
+Encoding: 66 66 8
+Width: 1228
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+46 0 m 1
+ 59 106 l 1
+ 225 169 l 1
+ 225 1056 l 1
+ 55 1093 l 1
+ 65 1211 l 1
+ 209 1231 428 1257 605 1257 c 0
+ 963 1257 1092 1109 1092 959 c 0
+ 1092 851 1019 728 887 682 c 1
+ 887 673 l 1
+ 1091 662 1185 511 1185 380 c 0
+ 1185 166 1015 0 627 0 c 2
+ 46 0 l 1
+507 141 m 1
+ 673 141 l 2
+ 811 141 899 230 899 348 c 0
+ 899 472 812 583 658 583 c 2
+ 507 583 l 1
+ 507 141 l 1
+507 708 m 1
+ 723 708 l 1
+ 787 750 819 811 819 903 c 0
+ 819 1021 757 1126 573 1126 c 0
+ 553 1126 530 1124 507 1120 c 1
+ 507 708 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" b.sc
+Colour: ffff
+EndChar
+
+StartChar: C
+Encoding: 67 67 9
+Width: 1232
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 586 m 0
+ 47 880 233 1270 765 1270 c 0
+ 896 1270 1069 1237 1155 1170 c 1
+ 1125 792 l 1
+ 995 810 l 1
+ 943 1036 l 1
+ 897 1094 804 1132 705 1132 c 0
+ 491 1132 351 973 351 682 c 0
+ 351 344 535 158 799 158 c 0
+ 939 158 1060 217 1147 281 c 1
+ 1195 176 l 1
+ 1117 84 926 -26 695 -26 c 0
+ 309 -26 47 196 47 586 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" c.sc
+Colour: ffff
+EndChar
+
+StartChar: Ccedilla
+Encoding: 199 199 10
+Width: 1232
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 81 184 N 1 0 0 1 442 -16 2
+Refer: 9 67 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ccedilla.sc
+Colour: ffff
+EndChar
+
+StartChar: D
+Encoding: 68 68 11
+Width: 1444
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 0 m 1
+ 61 106 l 1
+ 237 185 l 1
+ 237 1053 l 1
+ 65 1091 l 1
+ 73 1208 l 1
+ 269 1239 481 1258 625 1258 c 0
+ 1241 1258 1397 960 1397 652 c 0
+ 1397 310 1110 0 599 0 c 2
+ 43 0 l 1
+517 153 m 1
+ 627 153 l 2
+ 983 153 1089 395 1089 598 c 0
+ 1089 849 935 1106 587 1106 c 0
+ 547 1106 557 1103 517 1101 c 1
+ 517 153 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" d.sc
+Colour: ffff
+EndChar
+
+StartChar: E
+Encoding: 69 69 12
+Width: 1236
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+110 1168 m 5x6f
+ 121 1244 l 5
+ 1116 1244 l 5x6f
+ 1085 924 l 5
+ 998 937 l 5
+ 957 1152 l 5
+ 486 1152 l 5
+ 486 676 l 5
+ 776 676 l 5
+ 818 796 l 5
+ 913 810 l 5
+ 879 421 l 5
+ 794 408 l 5
+ 760 583 l 5
+ 486 583 l 5
+ 486 96 l 5
+ 981 96 l 5xb7
+ 1079 326 l 5
+ 1162 313 l 5
+ 1132 0 l 5
+ 117 0 l 5
+ 125 74 l 5
+ 292 121 l 5
+ 292 1126 l 5
+ 110 1168 l 5x6f
+EndSplineSet
+Fore
+SplineSet
+46 1134 m 5
+ 61 1244 l 5
+ 1145 1244 l 5
+ 1114 875 l 5
+ 985 894 l 5
+ 923 1112 l 5
+ 516 1112 l 5
+ 516 684 l 5
+ 751 684 l 5
+ 795 813 l 5
+ 939 840 l 5
+ 905 416 l 5
+ 766 393 l 5
+ 733 562 l 5
+ 516 562 l 5
+ 516 151 l 5
+ 945 151 l 5
+ 1067 377 l 5
+ 1191 362 l 5
+ 1161 0 l 5
+ 57 0 l 5
+ 67 106 l 5
+ 232 169 l 5
+ 232 1078 l 5
+ 46 1134 l 5
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" e.sc
+Colour: ffff
+EndChar
+
+StartChar: Eacute
+Encoding: 201 201 13
+Width: 1236
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 N 1 0 0 1 402 30 2
+Refer: 12 69 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" eacute.sc
+Colour: ffff
+EndChar
+
+StartChar: Ecircumflex
+Encoding: 202 202 14
+Width: 1236
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 83 710 N 1 0 0 1 331 36 2
+Refer: 12 69 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ecircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: Edieresis
+Encoding: 203 203 15
+Width: 1236
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 N 1 0 0 1 293 36 2
+Refer: 12 69 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" edieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: Egrave
+Encoding: 200 200 16
+Width: 1236
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 116 96 N 1 0 0 1 321 70 2
+Refer: 12 69 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" egrave.sc
+Colour: ffff
+EndChar
+
+StartChar: Eth
+Encoding: 208 208 17
+Width: 1453
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+61 519 m 1
+ 74 656 l 1
+ 241 670 l 1
+ 241 1054 l 1
+ 69 1092 l 1
+ 77 1208 l 1
+ 273 1239 485 1259 629 1259 c 0
+ 1245 1259 1407 963 1407 655 c 0
+ 1407 321 1114 0 612 0 c 2
+ 47 0 l 1
+ 65 106 l 1
+ 241 185 l 1
+ 241 534 l 1
+ 61 519 l 1
+521 153 m 1
+ 665 153 l 2
+ 1009 153 1097 400 1097 598 c 0
+ 1097 849 941 1107 591 1107 c 0
+ 551 1107 561 1103 521 1101 c 1
+ 521 692 l 1
+ 749 715 l 1
+ 734 575 l 1
+ 521 558 l 1
+ 521 153 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" eth.sc
+Colour: ffff
+EndChar
+
+StartChar: Euro
+Encoding: 8364 8364 18
+Width: 1268
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+46 462 m 1
+ 59 578 l 1
+ 926 578 l 1
+ 902 462 l 1
+ 46 462 l 1
+59 653 m 1
+ 72 770 l 1
+ 973 770 l 1
+ 949 653 l 1
+ 59 653 l 1
+187 603 m 0
+ 187 913 419 1268 847 1268 c 0
+ 978 1268 1104 1241 1199 1168 c 1
+ 1169 826 l 1
+ 1038 844 l 1
+ 984 1048 l 1
+ 923 1106 857 1135 755 1135 c 0
+ 581 1135 477 985 477 717 c 1
+ 477 455 600 124 853 124 c 0
+ 915 124 968 141 996 181 c 1
+ 1055 404 l 1
+ 1187 425 l 1
+ 1217 119 l 1
+ 1083 5 969 -24 805 -24 c 0
+ 401 -24 187 250 187 603 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: F
+Encoding: 70 70 19
+Width: 1183
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+25 1134 m 1x6e
+ 40 1244 l 1
+ 1124 1244 l 1x6e
+ 1093 875 l 1
+ 964 894 l 1
+ 902 1112 l 1
+ 495 1112 l 1
+ 495 684 l 1
+ 730 684 l 1
+ 774 813 l 1
+ 918 840 l 1
+ 884 416 l 1
+ 745 393 l 1
+ 712 562 l 1
+ 495 562 l 1
+ 495 151 l 1xb6
+ 924 151 l 1
+ 1046 377 l 1
+ 1170 362 l 1
+ 1140 0 l 1
+ 36 0 l 1
+ 46 106 l 1
+ 211 169 l 1
+ 211 1078 l 1
+ 25 1134 l 1x6e
+EndSplineSet
+Fore
+SplineSet
+45 1134 m 1
+ 60 1244 l 1
+ 1140 1244 l 1
+ 1090 878 l 1
+ 963 898 l 1
+ 916 1112 l 1
+ 516 1112 l 1
+ 516 638 l 1
+ 749 638 l 1
+ 795 770 l 1
+ 942 800 l 1
+ 902 354 l 1
+ 767 326 l 1
+ 735 506 l 1
+ 516 506 l 1
+ 516 174 l 1
+ 746 113 l 1
+ 731 0 l 1
+ 56 0 l 1
+ 68 106 l 1
+ 232 169 l 1
+ 232 1078 l 1
+ 45 1134 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" f.sc
+Colour: ffff
+EndChar
+
+StartChar: G
+Encoding: 71 71 20
+Width: 1381
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 579 m 0
+ 47 1017 403 1266 756 1266 c 0
+ 978 1266 1106 1219 1207 1174 c 1
+ 1175 794 l 1
+ 1037 808 l 1
+ 999 1013 l 1
+ 947 1065 850 1124 707 1124 c 0
+ 513 1124 359 996 359 672 c 0
+ 359 370 510 128 765 128 c 0
+ 841 128 903 149 943 177 c 1
+ 943 394 l 1
+ 715 446 l 1
+ 732 573 l 1
+ 1340 573 l 1
+ 1323 458 l 1
+ 1209 401 l 1
+ 1209 86 l 1
+ 1100 19 894 -28 716 -28 c 0
+ 268 -28 47 211 47 579 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" g.sc
+Colour: ffff
+EndChar
+
+StartChar: H
+Encoding: 72 72 21
+Width: 1576
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 1131 m 1
+ 65 1244 l 1
+ 697 1244 l 1
+ 682 1131 l 1
+ 515 1078 l 1
+ 515 718 l 1
+ 1052 718 l 1
+ 1052 1073 l 1
+ 870 1131 l 1
+ 884 1244 l 1
+ 1521 1244 l 1
+ 1506 1131 l 1
+ 1338 1078 l 1
+ 1338 162 l 1
+ 1518 114 l 1
+ 1506 0 l 1
+ 874 0 l 1
+ 886 106 l 1
+ 1052 169 l 1
+ 1052 541 l 1
+ 515 541 l 1
+ 515 162 l 1
+ 698 114 l 1
+ 682 0 l 1
+ 53 0 l 1
+ 63 106 l 1
+ 231 169 l 1
+ 231 1073 l 1
+ 47 1131 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" h.sc
+Colour: ffff
+EndChar
+
+StartChar: I
+Encoding: 73 73 22
+Width: 755
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 1131 m 1
+ 64 1244 l 1
+ 700 1244 l 1
+ 687 1126 l 1
+ 513 1074 l 1
+ 513 168 l 1
+ 694 120 l 1
+ 682 0 l 1
+ 54 0 l 1
+ 62 108 l 1
+ 234 171 l 1
+ 234 1073 l 1
+ 49 1131 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" i.sc
+Colour: ffff
+EndChar
+
+StartChar: Iacute
+Encoding: 205 205 23
+Width: 755
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 N 1 0 0 1 178 30 2
+Refer: 22 73 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" iacute.sc
+Colour: ffff
+EndChar
+
+StartChar: Icircumflex
+Encoding: 206 206 24
+Width: 755
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 83 710 N 1 0 0 1 108 36 2
+Refer: 22 73 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" icircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: Idieresis
+Encoding: 207 207 25
+Width: 755
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 N 1 0 0 1 70 36 2
+Refer: 22 73 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" idieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: Igrave
+Encoding: 204 204 26
+Width: 755
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 116 96 N 1 0 0 1 97 70 2
+Refer: 22 73 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" igrave.sc
+Colour: ffff
+EndChar
+
+StartChar: J
+Encoding: 74 74 27
+Width: 763
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+35 -194 m 1
+ 184 -63 255 89 255 241 c 2
+ 255 1073 l 1
+ 75 1131 l 1
+ 90 1244 l 1
+ 721 1244 l 1
+ 706 1131 l 1
+ 536 1078 l 1
+ 535 410 l 2
+ 536 2 444 -124 121 -326 c 1
+ 35 -194 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" j.sc
+Colour: ffff
+EndChar
+
+StartChar: K
+Encoding: 75 75 28
+Width: 1452
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 1131 m 1
+ 69 1244 l 1
+ 699 1244 l 1
+ 684 1131 l 1
+ 530 1060 l 1
+ 530 182 l 1
+ 722 114 l 1
+ 711 0 l 1
+ 51 0 l 1
+ 65 106 l 1
+ 251 185 l 1
+ 251 1055 l 1
+ 47 1131 l 1
+565 640 m 1
+ 587 664 645 730 673 769 c 2
+ 882 1062 l 1
+ 811 1125 l 1
+ 829 1244 l 1
+ 1335 1244 l 1
+ 1315 1131 l 1
+ 1114 1060 l 1
+ 811 669 l 1
+ 1004 428 l 2
+ 1160 229 1225 149 1371 111 c 2
+ 1401 102 l 1
+ 1381 2 l 1
+ 1335 -15 1245 -24 1205 -24 c 0
+ 1005 -24 877 114 757 304 c 2
+ 563 594 l 1
+ 565 640 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" k.sc
+Colour: ffff
+EndChar
+
+StartChar: L
+Encoding: 76 76 29
+Width: 1188
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+52 0 m 1
+ 65 106 l 1
+ 227 169 l 1
+ 227 1058 l 1
+ 47 1133 l 1
+ 63 1244 l 1
+ 710 1244 l 1
+ 695 1133 l 1
+ 511 1060 l 1
+ 511 148 l 1
+ 867 137 l 1
+ 1019 398 l 1
+ 1145 380 l 1
+ 1103 0 l 1
+ 52 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" l.sc
+Colour: ffff
+EndChar
+
+StartChar: M
+Encoding: 77 77 30
+Width: 1821
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 0 m 1
+ 59 114 l 1
+ 227 177 l 1
+ 292 1078 l 1
+ 109 1128 l 1
+ 121 1244 l 1
+ 626 1244 l 1
+ 701 1044 l 1
+ 909 426 l 1
+ 1143 1062 l 1
+ 1211 1244 l 1
+ 1709 1244 l 1
+ 1695 1128 l 1
+ 1530 1082 l 1
+ 1591 172 l 1
+ 1770 120 l 1
+ 1758 0 l 1
+ 1169 0 l 1
+ 1187 114 l 1
+ 1325 177 l 1
+ 1271 890 l 1
+ 968 40 l 1
+ 763 12 l 1
+ 471 877 l 1
+ 423 172 l 1
+ 579 120 l 1
+ 561 0 l 1
+ 43 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" m.sc
+Colour: ffff
+EndChar
+
+StartChar: N
+Encoding: 78 78 31
+Width: 1445
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+51 1128 m 1
+ 64 1244 l 1
+ 459 1244 l 1
+ 1046 402 l 1
+ 1046 1073 l 1
+ 860 1131 l 1
+ 878 1244 l 1
+ 1404 1244 l 1
+ 1384 1131 l 1
+ 1217 1078 l 1
+ 1217 8 l 1
+ 999 -30 l 1
+ 411 790 l 1
+ 411 162 l 1
+ 592 114 l 1
+ 580 0 l 1
+ 52 0 l 1
+ 62 106 l 1
+ 230 169 l 1
+ 230 1060 l 1
+ 51 1128 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" n.sc
+Colour: ffff
+EndChar
+
+StartChar: Ntilde
+Encoding: 209 209 32
+Width: 1445
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 192 732 N 1 0 0 1 387 47 2
+Refer: 31 78 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ntilde.sc
+Colour: ffff
+EndChar
+
+StartChar: O
+Encoding: 79 79 33
+Width: 1397
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 619 m 0
+ 47 1004 293 1270 727 1270 c 0
+ 1115 1270 1350 1031 1350 616 c 4
+ 1350 235 1082 -27 657 -27 c 0
+ 249 -27 47 248 47 619 c 0
+363 674 m 0
+ 363 454 444 121 708 121 c 0
+ 946 121 1027 309 1027 573 c 0
+ 1027 788 949 1135 679 1135 c 0
+ 434 1135 363 936 363 674 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" o.sc
+Colour: ffff
+EndChar
+
+StartChar: Oacute
+Encoding: 211 211 34
+Width: 1397
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 N 1 0 0 1 550 30 2
+Refer: 33 79 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" oacute.sc
+Colour: ffff
+EndChar
+
+StartChar: Ocircumflex
+Encoding: 212 212 35
+Width: 1397
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 83 710 S 1 0 0 1 419 36 2
+Refer: 33 79 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ocircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: Odieresis
+Encoding: 214 214 36
+Width: 1397
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 N 1 0 0 1 441 36 2
+Refer: 33 79 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" odieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: Ograve
+Encoding: 210 210 37
+Width: 1397
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 116 96 N 1 0 0 1 468 70 2
+Refer: 33 79 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ograve.sc
+Colour: ffff
+EndChar
+
+StartChar: Oslash
+Encoding: 216 216 38
+Width: 1437
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+135 -34 m 1
+ 303 202 l 1
+ 409 230 l 1
+ 980 1098 l 1
+ 985 1168 l 1
+ 1085 1293 l 1
+ 1282 1272 l 1
+ 1114 1060 l 1
+ 1032 1029 l 1
+ 453 142 l 1
+ 425 74 l 1
+ 331 -60 l 1
+ 135 -34 l 1
+383 674 m 0
+ 383 454 464 121 728 121 c 0
+ 966 121 1047 309 1047 573 c 0
+ 1047 788 969 1135 699 1135 c 0
+ 454 1135 383 936 383 674 c 0
+47 619 m 1
+ 47 1004 313 1270 747 1270 c 0
+ 1135 1270 1390 1031 1390 616 c 0
+ 1390 235 1102 -27 677 -27 c 1
+ 270 -27 46 248 47 619 c 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" oslash.sc
+Colour: ffff
+EndChar
+
+StartChar: Otilde
+Encoding: 213 213 39
+Width: 1397
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 192 732 N 1 0 0 1 407 47 2
+Refer: 33 79 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" otilde.sc
+Colour: ffff
+EndChar
+
+StartChar: P
+Encoding: 80 80 40
+Width: 1181
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+44 0 m 1
+ 61 106 l 1
+ 237 169 l 1
+ 237 1056 l 1
+ 57 1093 l 1
+ 69 1211 l 1
+ 241 1237 413 1261 631 1261 c 0
+ 919 1261 1139 1184 1139 890 c 0
+ 1139 652 931 470 660 470 c 0
+ 629 470 599 472 569 474 c 1
+ 545 602 l 1
+ 581 603 l 2
+ 763 606 851 698 851 848 c 0
+ 851 994 775 1113 595 1113 c 0
+ 565 1113 523 1108 511 1106 c 1
+ 511 178 l 1
+ 749 120 l 1
+ 731 0 l 1
+ 44 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" p.sc
+Colour: ffff
+EndChar
+
+StartChar: Q
+Encoding: 81 81 41
+Width: 1399
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 608 m 0
+ 47 994 311 1270 735 1270 c 0
+ 1121 1270 1352 1030 1352 626 c 0
+ 1352 323 1175 77 903 5 c 1
+ 965 -123 1098 -196 1336 -238 c 1
+ 1336 -250 1324 -334 1321 -343 c 1
+ 1245 -373 1167 -384 1091 -384 c 0
+ 887 -384 703 -266 711 -24 c 1
+ 697 -26 675 -27 659 -27 c 0
+ 265 -27 47 237 47 608 c 0
+356 675 m 0
+ 356 442 460 138 777 110 c 1
+ 991 184 1033 357 1033 568 c 0
+ 1033 798 935 1111 677 1111 c 4
+ 457 1111 356 948 356 675 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" q.sc
+Colour: ffff
+EndChar
+
+StartChar: R
+Encoding: 82 82 42
+Width: 1419
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+45 0 m 1
+ 60 106 l 1
+ 238 169 l 1
+ 238 1048 l 1
+ 57 1086 l 1
+ 68 1205 l 1
+ 214 1228 466 1254 614 1254 c 0
+ 953 1254 1158 1172 1158 926 c 0
+ 1158 770 1025 632 877 580 c 1
+ 1028 374 l 2
+ 1128 238 1198 146 1334 110 c 2
+ 1370 100 l 1
+ 1347 0 l 1
+ 1304 -14 1248 -24 1178 -24 c 0
+ 976 -24 858 98 768 268 c 2
+ 644 498 l 1
+ 520 498 l 1
+ 520 178 l 1
+ 685 119 l 1
+ 674 0 l 1
+ 45 0 l 1
+520 648 m 1
+ 695 648 l 1
+ 783 686 854 756 854 874 c 0
+ 854 1013 758 1122 596 1122 c 0
+ 556 1122 526 1119 520 1119 c 1
+ 520 648 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" r.sc
+Colour: ffff
+EndChar
+
+StartChar: S
+Encoding: 83 83 43
+Width: 984
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+51 124 m 1
+ 74 438 l 1
+ 214 417 l 1
+ 254 230 l 1
+ 293 172 381 129 470 129 c 0
+ 562 129 652 184 652 284 c 0
+ 652 512 67 488 67 886 c 0
+ 67 1143 304 1268 532 1268 c 0
+ 640 1268 785 1230 850 1172 c 1
+ 850 1156 824 850 824 850 c 1
+ 688 872 l 1
+ 656 1038 l 1
+ 625 1088 543 1136 464 1136 c 0
+ 380 1136 320 1086 320 992 c 0
+ 320 751 941 768 941 368 c 0
+ 941 96 653 -24 445 -24 c 0
+ 258 -24 110 42 51 124 c 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" s.sc
+Colour: ffff
+EndChar
+
+StartChar: T
+Encoding: 84 84 44
+Width: 1280
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 1244 m 1
+ 1234 1244 l 1
+ 1201 851 l 1
+ 1062 874 l 1
+ 1011 1112 l 1
+ 767 1112 l 1
+ 767 161 l 1
+ 960 116 l 1
+ 945 0 l 1
+ 307 0 l 1
+ 317 107 l 1
+ 490 165 l 1
+ 490 1112 l 1
+ 253 1112 l 1
+ 183 848 l 1
+ 52 867 l 1
+ 47 1244 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" t.sc
+Colour: ffff
+EndChar
+
+StartChar: Thorn
+Encoding: 222 222 45
+Width: 1185
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 1131 m 1
+ 64 1244 l 1
+ 700 1244 l 1
+ 686 1126 l 1
+ 512 1074 l 1
+ 512 1001 l 1
+ 552 1005 593 1008 633 1008 c 0
+ 921 1008 1141 946 1141 652 c 0
+ 1141 414 941 251 670 251 c 0
+ 639 251 606 252 572 256 c 1
+ 547 386 l 1
+ 747 379 852 447 852 610 c 0
+ 852 756 774 858 599 858 c 0
+ 569 858 524 853 512 851 c 1
+ 512 172 l 1
+ 720 122 l 1
+ 707 0 l 1
+ 52 0 l 1
+ 62 108 l 1
+ 234 170 l 1
+ 234 1073 l 1
+ 49 1131 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" thorn.sc
+Colour: ffff
+EndChar
+
+StartChar: U
+Encoding: 85 85 46
+Width: 1535
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+41 1131 m 1
+ 62 1244 l 1
+ 693 1244 l 1
+ 678 1131 l 1
+ 510 1078 l 1
+ 510 526 l 2
+ 510 273 642 169 832 169 c 0
+ 1010 169 1124 273 1124 510 c 2
+ 1125 1073 l 1
+ 946 1131 l 1
+ 960 1244 l 1
+ 1492 1244 l 1
+ 1478 1131 l 1
+ 1312 1078 l 1
+ 1308 540 l 2
+ 1304 155 1126 -27 767 -27 c 0
+ 535 -27 228 21 228 476 c 2
+ 228 1073 l 1
+ 41 1131 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" u.sc
+Colour: ffff
+EndChar
+
+StartChar: Uacute
+Encoding: 218 218 47
+Width: 1535
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 N 1 0 0 1 567 30 2
+Refer: 46 85 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" uacute.sc
+Colour: ffff
+EndChar
+
+StartChar: Ucircumflex
+Encoding: 219 219 48
+Width: 1535
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 83 710 N 1 0 0 1 496 36 2
+Refer: 46 85 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ucircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: Udieresis
+Encoding: 220 220 49
+Width: 1535
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 N 1 0 0 1 458 36 2
+Refer: 46 85 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" udieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: Ugrave
+Encoding: 217 217 50
+Width: 1535
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 116 96 N 1 0 0 1 486 70 2
+Refer: 46 85 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ugrave.sc
+Colour: ffff
+EndChar
+
+StartChar: V
+Encoding: 86 86 51
+Width: 1463
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 1128 m 1
+ 57 1244 l 1
+ 705 1244 l 1
+ 688 1128 l 1
+ 522 1078 l 1
+ 796 336 l 1
+ 1065 1076 l 1
+ 887 1128 l 1
+ 898 1244 l 1
+ 1418 1244 l 1
+ 1407 1128 l 1
+ 1274 1078 l 1
+ 865 20 l 1
+ 612 -24 l 1
+ 189 1076 l 1
+ 43 1128 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" v.sc
+Colour: ffff
+EndChar
+
+StartChar: W
+Encoding: 87 87 52
+Width: 2019
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 1128 m 1
+ 53 1244 l 1
+ 688 1244 l 1
+ 663 1124 l 1
+ 503 1078 l 1
+ 701 378 l 1
+ 929 1197 l 1
+ 1186 1230 l 1
+ 1413 394 l 1
+ 1620 1078 l 1
+ 1446 1126 l 1
+ 1462 1244 l 1
+ 1976 1244 l 1
+ 1958 1128 l 1
+ 1831 1082 l 1
+ 1481 21 l 1
+ 1237 -24 l 1
+ 1003 836 l 1
+ 771 21 l 1
+ 517 -24 l 1
+ 201 1074 l 1
+ 43 1128 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" w.sc
+Colour: ffff
+EndChar
+
+StartChar: X
+Encoding: 88 88 53
+Width: 1363
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+46 0 m 1
+ 64 116 l 1
+ 192 177 l 1
+ 538 602 l 1
+ 198 1068 l 1
+ 66 1116 l 1
+ 86 1244 l 1
+ 666 1244 l 1
+ 647 1121 l 1
+ 523 1066 l 1
+ 727 769 l 1
+ 942 1070 l 1
+ 800 1125 l 1
+ 820 1244 l 1
+ 1291 1244 l 1
+ 1275 1128 l 1
+ 1146 1072 l 1
+ 825 650 l 1
+ 1192 170 l 1
+ 1310 130 l 1
+ 1291 0 l 1
+ 718 0 l 1
+ 738 120 l 1
+ 864 176 l 1
+ 641 486 l 1
+ 414 174 l 1
+ 568 125 l 1
+ 546 0 l 1
+ 46 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" x.sc
+Colour: ffff
+EndChar
+
+StartChar: Y
+Encoding: 89 89 54
+Width: 1310
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+41 1128 m 1
+ 63 1244 l 1
+ 647 1244 l 1
+ 627 1128 l 1
+ 511 1079 l 1
+ 724 690 l 1
+ 931 1076 l 1
+ 791 1128 l 1
+ 807 1244 l 1
+ 1267 1244 l 1
+ 1249 1128 l 1
+ 1130 1078 l 1
+ 799 514 l 1
+ 799 168 l 1
+ 965 110 l 1
+ 953 0 l 1
+ 349 0 l 1
+ 363 106 l 1
+ 517 169 l 1
+ 517 494 l 1
+ 177 1076 l 1
+ 41 1128 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" y.sc
+Colour: ffff
+EndChar
+
+StartChar: Yacute
+Encoding: 221 221 55
+Width: 1310
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 S 1 0 0 1 414 30 2
+Refer: 54 89 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" yacute.sc
+Colour: ffff
+EndChar
+
+StartChar: Z
+Encoding: 90 90 56
+Width: 1136
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+53 170 m 1
+ 741 1109 l 1
+ 302 1109 l 1
+ 232 858 l 1
+ 87 882 l 1
+ 97 1244 l 1
+ 1077 1244 l 1
+ 1073 1128 l 1
+ 349 153 l 1
+ 813 138 l 1
+ 967 404 l 1
+ 1089 384 l 1
+ 1030 0 l 1
+ 63 0 l 1
+ 53 170 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" z.sc
+Colour: ffff
+EndChar
+
+StartChar: a
+Encoding: 97 97 57
+Width: 928
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+51 178 m 0
+ 51 341 199 488 510 499 c 1
+ 510 574 l 2
+ 510 688 462 787 359 787 c 0
+ 285 787 275 728 263 572 c 1
+ 177 572 79 584 79 689 c 0
+ 79 801 312 924 485 924 c 0
+ 647 924 745 838 745 617 c 2
+ 745 302 l 2
+ 745 204 743 171 840 153 c 2
+ 879 146 l 1
+ 860 18 l 1
+ 817 -8 779 -21 701 -21 c 0
+ 589 -21 557 41 541 111 c 2
+ 538 125 l 1
+ 526 128 l 1
+ 498 62 394 -24 259 -24 c 0
+ 139 -24 51 44 51 178 c 0
+287 247 m 0
+ 287 202 320 152 382 152 c 0
+ 430 152 480 183 510 211 c 1
+ 510 413 l 1
+ 339 385 287 317 287 247 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" a.sc
+Colour: ffff
+EndChar
+
+StartChar: aacute
+Encoding: 225 225 58
+Width: 928
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 S 1 0 0 1 258 -314 2
+Refer: 57 97 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" aacute.sc
+Colour: ffff
+EndChar
+
+StartChar: acircumflex
+Encoding: 226 226 59
+Width: 928
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 83 710 S 1 0 0 1 128 -307 2
+Refer: 57 97 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" acircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: acute
+Encoding: 180 180 60
+Width: 487
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 1390 m 1
+ 189 1704 l 1
+ 411 1676 l 1
+ 229 1363 l 1
+ 75 1390 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: adieresis
+Encoding: 228 228 61
+Width: 928
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 S 1 0 0 1 120 -307 2
+Refer: 57 97 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" adieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: ae
+Encoding: 230 230 62
+Width: 1319
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+51 172 m 0
+ 51 334 182 466 511 498 c 1
+ 511 574 l 2
+ 511 688 461 774 371 774 c 0
+ 295 774 279 715 260 588 c 1
+ 189 581 89 604 89 712 c 0
+ 89 833 341 924 481 924 c 0
+ 591 924 655 894 691 830 c 1
+ 767 892 859 924 948 924 c 0
+ 1130 924 1251 792 1251 580 c 0
+ 1251 549 1238 455 1231 423 c 1
+ 751 412 l 1
+ 759 268 849 142 1015 142 c 0
+ 1088 142 1165 157 1253 205 c 1
+ 1272 113 l 1
+ 1186 11 1030 -30 899 -30 c 0
+ 749 -30 625 31 577 147 c 1
+ 517 11 375 -24 251 -24 c 0
+ 147 -24 51 38 51 172 c 0
+287 241 m 0
+ 287 181 322 144 384 144 c 0
+ 436 144 497 188 511 248 c 1
+ 511 404 l 1
+ 323 377 287 311 287 241 c 0
+750 512 m 1
+ 991 537 l 1
+ 995 553 999 595 999 610 c 0
+ 999 702 966 772 887 772 c 0
+ 812 772 754 674 750 512 c 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ae.sc
+Colour: ffff
+EndChar
+
+StartChar: agrave
+Encoding: 224 224 63
+Width: 928
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 116 96 S 1 0 0 1 207 -274 2
+Refer: 57 97 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" agrave.sc
+Colour: ffff
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 64
+Width: 1398
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 296 m 0
+ 50 483 174 592 343 683 c 1
+ 271 747 218 856 218 954 c 0
+ 218 1140 398 1272 570 1272 c 0
+ 734 1272 856 1192 856 1018 c 0
+ 856 892 784 802 663 724 c 1
+ 663 710 l 1
+ 852 506 l 1
+ 1005 730 l 1
+ 889 770 l 1
+ 906 888 l 1
+ 1354 888 l 1
+ 1338 770 l 1
+ 1166 722 l 1
+ 952 405 l 1
+ 1081 268 1203 151 1280 120 c 2
+ 1319 106 l 1
+ 1296 3 l 1
+ 1264 -7 1194 -18 1146 -18 c 0
+ 1022 -18 932 50 862 124 c 2
+ 801 187 l 1
+ 705 60 581 -24 414 -24 c 0
+ 212 -24 50 67 50 296 c 0
+310 393 m 0
+ 310 264 382 154 502 154 c 0
+ 586 154 657 219 702 288 c 1
+ 431 588 l 1
+ 418 591 l 1
+ 360 547 310 482 310 393 c 0
+433 1026 m 0
+ 433 950 509 860 565 810 c 1
+ 616 854 648 897 648 980 c 0
+ 648 1080 607 1145 534 1145 c 0
+ 474 1145 433 1090 433 1026 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" ampersand.sc
+Colour: ffff
+EndChar
+
+StartChar: aring
+Encoding: 229 229 65
+Width: 928
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 174 730 S 1 0 0 1 146 -371 2
+Refer: 57 97 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" aring.sc
+Colour: ffff
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 66
+Width: 740
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 826 m 1
+ 314 1237 l 1
+ 414 1250 l 1
+ 688 824 l 1
+ 599 788 l 1
+ 356 1018 l 1
+ 345 1018 l 1
+ 131 794 l 1
+ 49 826 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 67
+Width: 989
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+58 347 m 1
+ 55 476 118 687 322 654 c 2
+ 718 590 l 2
+ 799 577 812 665 812 665 c 1
+ 931 655 l 1
+ 929 464 840 320 645 355 c 2
+ 262 424 l 2
+ 184 438 175 336 175 336 c 1
+ 58 347 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 68
+Width: 667
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+89 1102 m 1
+ 198 1184 l 1
+ 301 990 l 1
+ 419 1210 l 1
+ 527 1132 l 1
+ 372 963 l 1
+ 621 934 l 1
+ 581 806 l 1
+ 377 888 l 1
+ 421 654 l 1
+ 284 654 l 1
+ 308 864 l 1
+ 89 756 l 1
+ 47 888 l 1
+ 266 926 l 1
+ 89 1102 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: at
+Encoding: 64 64 69
+Width: 1457
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+53 326 m 0
+ 53 706 374 1044 860 1044 c 0
+ 1139 1044 1403 896 1403 606 c 0
+ 1403 324 1173 76 899 76 c 0
+ 821 76 754 108 757 192 c 1
+ 746 192 l 1
+ 700 125 630 72 560 72 c 0
+ 458 72 376 164 376 334 c 0
+ 376 580 572 792 836 792 c 0
+ 890 792 945 788 1000 776 c 1
+ 1018 756 l 1
+ 978 390 l 1
+ 968 297 955 206 1000 206 c 0
+ 1136 206 1216 411 1216 558 c 0
+ 1216 808 1043 942 807 942 c 0
+ 460 942 254 670 254 371 c 0
+ 254 75 431 -114 781 -114 c 0
+ 923 -114 1066 -56 1138 4 c 1
+ 1178 -84 l 1
+ 1076 -154 926 -224 726 -224 c 0
+ 350 -224 53 -38 53 326 c 0
+593 378 m 0
+ 593 262 622 234 662 234 c 0
+ 698 234 732 254 758 276 c 1
+ 808 675 l 1
+ 796 675 779 686 748 686 c 0
+ 641 686 593 478 593 378 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: atilde
+Encoding: 227 227 70
+Width: 928
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 192 732 S 1 0 0 1 106 -296 2
+Refer: 57 97 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" atilde.sc
+Colour: ffff
+EndChar
+
+StartChar: b
+Encoding: 98 98 71
+Width: 1085
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+10 0 m 5
+ 21 79 l 5
+ 175 116 l 5
+ 175 1147 l 5
+ 15 1201 l 5
+ 27 1277 l 5
+ 316 1299 l 5
+ 341 1275 l 5
+ 341 850 l 5
+ 325 744 l 5
+ 335 744 l 5
+ 418 836 516 900 629 900 c 4
+ 767 900 872 842 872 599 c 6
+ 872 114 l 5
+ 1017 79 l 5
+ 1005 0 l 5
+ 556 0 l 5
+ 568 74 l 5
+ 703 114 l 5
+ 706 580 l 6
+ 706 722 613 764 534 764 c 4
+ 477 764 411 748 341 675 c 5
+ 341 116 l 5
+ 487 80 l 5
+ 475 0 l 5
+ 10 0 l 5
+EndSplineSet
+Fore
+SplineSet
+41 1154 m 5
+ 62 1274 l 5
+ 389 1298 l 5
+ 429 1259 l 5
+ 429 864 l 1
+ 415 760 l 1
+ 427 758 l 1
+ 507 848 590 914 702 914 c 0
+ 908 914 1040 738 1040 484 c 0
+ 1040 166 789 -23 515 -23 c 0
+ 426 -23 277 -2 189 50 c 1
+ 189 1077 l 5
+ 41 1154 l 5
+429 207 m 1
+ 471 167 534 144 597 144 c 0
+ 695 144 776 244 776 428 c 0
+ 776 550 738 706 610 706 c 0
+ 562 706 499 691 429 625 c 1
+ 429 207 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" b.sc
+Colour: ffff
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 72
+Width: 720
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+37 1304 m 1
+ 222 1291 l 1
+ 683 -393 l 1
+ 505 -382 l 1
+ 37 1304 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: bar
+Encoding: 124 124 73
+Width: 307
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 -364 m 1
+ 75 1260 l 1
+ 231 1248 l 1
+ 231 -380 l 1
+ 75 -364 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 74
+Width: 694
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 75 125 N -1 0 0 1 661 0 2
+Colour: ffff
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 75
+Width: 693
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 -378 m 5
+ 54 -225 l 5
+ 152 -220 l 6
+ 320 -212 111 322 378 442 c 5
+ 378 452 l 5
+ 111 509 312 1090 164 1099 c 6
+ 56 1104 l 5
+ 50 1255 l 5
+ 220 1255 l 6
+ 629 1255 308 581 592 527 c 5
+ 645 516 l 5
+ 645 368 l 5
+ 588 357 l 6
+ 312 305 633 -378 218 -378 c 6
+ 43 -378 l 5
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 76
+Width: 540
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 77 93 S -1 0 0 1 497 0 2
+Colour: ffff
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 77
+Width: 538
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+41 -246 m 5
+ 273 -226 l 5
+ 273 1110 l 5
+ 45 1130 l 5
+ 66 1255 l 5
+ 461 1255 l 5
+ 463 -377 l 5
+ 60 -376 l 5
+ 41 -246 l 5
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: brokenbar
+Encoding: 166 166 78
+Width: 317
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+73 -358 m 1
+ 73 419 l 1
+ 243 399 l 1
+ 243 -380 l 1
+ 73 -358 l 1
+73 534 m 1
+ 73 1267 l 1
+ 241 1248 l 1
+ 241 517 l 1
+ 73 534 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: c
+Encoding: 99 99 79
+Width: 835
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+41 420 m 0
+ 41 744 294 934 522 934 c 0
+ 692 934 786 844 786 736 c 0
+ 786 648 717 605 621 596 c 1
+ 577 722 532 791 460 791 c 0
+ 357 791 298 697 298 511 c 0
+ 298 349 384 145 566 145 c 0
+ 670 145 728 173 790 211 c 1
+ 822 130 l 1
+ 770 44 630 -30 480 -30 c 0
+ 183 -30 41 164 41 420 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" c.sc
+Colour: ffff
+EndChar
+
+StartChar: ccedilla
+Encoding: 231 231 80
+Width: 835
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 81 184 N 1 0 0 1 226 -20 2
+Refer: 79 99 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ccedilla.sc
+Colour: ffff
+EndChar
+
+StartChar: cedilla
+Encoding: 184 184 81
+Width: 436
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+56 -304 m 1
+ 114 -296 178 -272 178 -242 c 0
+ 178 -205 106 -168 53 -141 c 1
+ 236 3 l 1
+ 350 3 l 1
+ 264 -80 l 1
+ 308 -104 376 -142 376 -216 c 0
+ 376 -324 245 -367 84 -388 c 1
+ 56 -304 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: cent
+Encoding: 162 162 82
+Width: 880
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+52 434 m 0
+ 52 758 306 976 534 976 c 0
+ 720 976 802 866 802 758 c 0
+ 802 670 739 619 643 610 c 1
+ 593 751 543 828 464 828 c 0
+ 364 828 310 695 310 519 c 0
+ 310 357 396 160 578 160 c 0
+ 682 160 744 193 806 231 c 1
+ 838 135 l 1
+ 786 49 641 -30 491 -30 c 0
+ 194 -30 52 178 52 434 c 0
+378 1193 m 1
+ 565 1210 l 1
+ 540 942 l 1
+ 410 942 l 1
+ 378 1193 l 1
+388 -266 m 1
+ 414 0 l 1
+ 544 0 l 1
+ 577 -250 l 1
+ 388 -266 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: circumflex
+Encoding: 710 710 83
+Width: 677
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+543 1344 m 5
+ 338 1309 l 5
+ 249 1394 l 5
+ 239 1394 l 5
+ 155 1313 l 5
+ 12 1327 l 5
+ 202 1543 l 5
+ 349 1564 l 5
+ 543 1344 l 5
+EndSplineSet
+Fore
+SplineSet
+603 1344 m 1
+ 434 1309 l 1
+ 330 1394 l 1
+ 320 1394 l 1
+ 233 1303 l 1
+ 72 1327 l 1
+ 236 1543 l 1
+ 423 1564 l 1
+ 603 1344 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: colon
+Encoding: 58 58 84
+Width: 423
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 162 46 S 0.9 0 0 0.9 29 12 2
+Refer: 162 46 N 0.9 0 0 0.9 29 640 2
+Refer: 162 46 N 0.9 0 0 0.9 29 640 2
+Refer: 162 46 N 0.9 0 0 0.9 29 640 2
+Colour: ffff
+EndChar
+
+StartChar: comma
+Encoding: 44 44 85
+Width: 498
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+61 -252 m 5
+ 185 -216 234 -138 234 -75 c 4
+ 234 -19 192 23 133 23 c 4
+ 120 23 105 21 91 16 c 5
+ 77 44 68 66 68 96 c 4
+ 68 196 147 248 230 248 c 4
+ 355 248 439 163 439 11 c 4
+ 439 -117 363 -291 94 -345 c 5
+ 61 -252 l 5
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: copyright
+Encoding: 169 169 86
+Width: 1443
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+369 660 m 0
+ 369 933 583 1094 775 1094 c 0
+ 918 1094 998 1018 998 927 c 0
+ 998 853 940 817 859 809 c 1
+ 822 915 784 973 723 973 c 0
+ 636 973 586 894 586 737 c 0
+ 586 600 659 428 812 428 c 0
+ 900 428 949 452 1001 484 c 1
+ 1028 416 l 1
+ 984 343 866 281 740 281 c 0
+ 490 281 369 444 369 660 c 0
+49 666 m 0
+ 49 1078 353 1358 723 1358 c 0
+ 1135 1358 1391 1074 1391 674 c 0
+ 1391 318 1097 -2 715 -2 c 0
+ 308 -2 49 272 49 666 c 0
+214 682 m 0
+ 214 336 428 131 721 131 c 0
+ 1003 131 1235 336 1235 664 c 0
+ 1235 970 1065 1230 717 1230 c 0
+ 413 1230 214 992 214 682 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: currency
+Encoding: 164 164 87
+Width: 836
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+45 723 m 1
+ 171 841 l 1
+ 279 725 l 1
+ 317 757 372 776 422 776 c 0
+ 470 776 522 761 556 735 c 1
+ 665 844 l 1
+ 785 720 l 1
+ 669 616 l 1
+ 687 583 699 533 699 490 c 0
+ 699 444 687 392 663 357 c 1
+ 789 238 l 1
+ 659 122 l 1
+ 546 245 l 1
+ 504 219 453 204 409 204 c 0
+ 373 204 328 216 292 238 c 1
+ 181 111 l 1
+ 55 233 l 1
+ 175 347 l 1
+ 150 383 135 437 135 486 c 0
+ 135 528 149 575 169 608 c 1
+ 45 723 l 1
+284 492 m 0
+ 284 400 341 338 415 338 c 0
+ 491 338 549 397 549 486 c 0
+ 549 580 492 640 415 640 c 0
+ 341 640 284 581 284 492 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: d
+Encoding: 100 100 88
+Width: 1086
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+48 383 m 0
+ 48 658 239 906 510 906 c 0
+ 558 906 623 890 653 870 c 1
+ 659 870 l 1
+ 648 970 l 1
+ 648 1079 l 5
+ 485 1157 l 5
+ 505 1276 l 5
+ 839 1302 l 5
+ 879 1262 l 5
+ 879 295 l 2
+ 879 191 915 177 1003 152 c 2
+ 1039 142 l 1
+ 1021 16 l 1
+ 954 -9 910 -23 830 -23 c 0
+ 726 -23 671 34 655 116 c 2
+ 652 126 l 1
+ 641 128 l 1
+ 586 52 511 -20 373 -20 c 0
+ 176 -20 48 143 48 383 c 0
+305 464 m 0
+ 305 292 374 179 485 179 c 0
+ 543 179 605 210 645 244 c 1
+ 645 638 l 1
+ 592 714 523 751 471 751 c 0
+ 355 751 305 612 305 464 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" d.sc
+Colour: ffff
+EndChar
+
+StartChar: dagger
+Encoding: 8224 8224 89
+Width: 858
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+44 689 m 1
+ 52 844 l 1
+ 348 836 l 1
+ 342 1255 l 1
+ 514 1244 l 1
+ 506 836 l 1
+ 812 844 l 1
+ 804 681 l 1
+ 506 692 l 1
+ 520 -362 l 1
+ 336 -351 l 1
+ 348 694 l 1
+ 44 689 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: daggerdbl
+Encoding: 8225 8225 90
+Width: 863
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 689 m 1
+ 56 844 l 1
+ 350 838 l 1
+ 342 1255 l 1
+ 516 1244 l 1
+ 504 838 l 1
+ 808 844 l 1
+ 802 682 l 1
+ 504 692 l 1
+ 494 430 l 1
+ 497 193 l 1
+ 812 199 l 1
+ 806 42 l 1
+ 497 50 l 1
+ 508 -362 l 1
+ 334 -352 l 1
+ 344 50 l 1
+ 56 42 l 1
+ 65 206 l 1
+ 344 192 l 1
+ 353 498 l 1
+ 350 696 l 1
+ 50 689 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: degree
+Encoding: 176 176 91
+Width: 494
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+56 1107 m 0
+ 56 1210 146 1304 254 1304 c 0
+ 370 1304 435 1237 435 1128 c 0
+ 435 1013 336 928 230 928 c 0
+ 128 928 56 990 56 1107 c 0
+167 1129 m 0
+ 167 1071 190 1009 248 1009 c 0
+ 293 1009 318 1045 318 1105 c 0
+ 318 1164 290 1223 238 1223 c 0
+ 191 1223 167 1179 167 1129 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: dieresis
+Encoding: 168 168 92
+Width: 683
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 162 46 N 0.66 0 0 0.7 361 1376 2
+Refer: 162 46 N 0.66 0 0 0.7 52 1376 2
+Colour: ffff
+EndChar
+
+StartChar: divide
+Encoding: 247 247 93
+Width: 911
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+45 432 m 1
+ 57 578 l 1
+ 868 578 l 1
+ 858 432 l 1
+ 45 432 l 1
+283 223 m 0
+ 283 287 333 356 447 356 c 0
+ 567 356 617 288 617 224 c 0
+ 617 148 564 84 447 84 c 0
+ 327 84 283 153 283 223 c 0
+283 786 m 0
+ 283 850 333 918 447 918 c 0
+ 567 918 617 850 617 786 c 0
+ 617 710 564 647 447 647 c 0
+ 327 647 283 716 283 786 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 94
+Width: 952
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 129 m 1
+ 70 428 l 1
+ 210 407 l 1
+ 260 200 l 1
+ 297 147 369 107 447 107 c 0
+ 543 107 650 163 650 288 c 0
+ 650 497 72 525 72 889 c 0
+ 72 1144 285 1268 518 1268 c 0
+ 626 1268 729 1235 820 1178 c 1
+ 820 1162 796 861 796 861 c 1
+ 660 882 l 1
+ 628 1079 l 1
+ 605 1109 522 1145 462 1145 c 0
+ 385 1145 320 1102 320 1001 c 0
+ 320 745 907 746 907 376 c 0
+ 907 104 629 -24 421 -24 c 0
+ 277 -24 111 49 47 129 c 1
+327 -181 m 1
+ 351 9 l 1
+ 411 76 l 1
+ 431 618 l 1
+ 444 695 l 1
+ 465 1206 l 1
+ 417 1240 l 1
+ 404 1392 l 1
+ 630 1417 l 1
+ 600 1240 l 1
+ 538 1202 l 1
+ 518 674 l 1
+ 509 597 l 1
+ 488 66 l 1
+ 548 30 l 1
+ 556 -161 l 1
+ 327 -181 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" dollar.osf
+Colour: ffff
+EndChar
+
+StartChar: dotaccent
+Encoding: 729 729 95
+Width: 487
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+76 1476 m 0
+ 76 1540 128 1610 240 1610 c 0
+ 360 1610 410 1541 410 1477 c 0
+ 410 1401 357 1338 240 1338 c 0
+ 120 1338 76 1406 76 1476 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: e
+Encoding: 101 101 96
+Width: 820
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+41 429 m 0
+ 41 731 265 924 477 924 c 0
+ 650 924 764 792 764 580 c 0
+ 764 547 752 450 745 416 c 1
+ 294 406 l 1
+ 301 276 367 160 528 160 c 0
+ 602 160 679 166 766 211 c 1
+ 786 98 l 1
+ 700 10 561 -30 438 -30 c 0
+ 221 -30 41 124 41 429 c 0
+290 510 m 1
+ 526 534 l 1
+ 530 549 532 587 532 601 c 0
+ 532 691 500 758 421 758 c 0
+ 353 758 294 667 290 510 c 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" e.sc
+Colour: ffff
+EndChar
+
+StartChar: eacute
+Encoding: 233 233 97
+Width: 820
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 N 1 0 0 1 298 -314 2
+Refer: 96 101 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" eacute.sc
+Colour: ffff
+EndChar
+
+StartChar: ecircumflex
+Encoding: 234 234 98
+Width: 820
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 83 710 S 1 0 0 1 167 -307 2
+Refer: 96 101 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ecircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: edieresis
+Encoding: 235 235 99
+Width: 820
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 S 1 0 0 1 146 -308 2
+Refer: 96 101 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" edieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: egrave
+Encoding: 232 232 100
+Width: 820
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 116 96 N 1 0 0 1 216 -274 2
+Refer: 96 101 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" egrave.sc
+Colour: ffff
+EndChar
+
+StartChar: eight
+Encoding: 56 56 101
+Width: 942
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 275 m 0
+ 47 392 112 488 270 566 c 1
+ 270 578 l 1
+ 168 653 92 743 92 871 c 0
+ 92 1039 242 1200 498 1200 c 0
+ 712 1200 849 1071 849 926 c 0
+ 849 822 767 708 651 660 c 1
+ 650 647 l 1
+ 815 533 894 449 894 316 c 0
+ 894 128 722 -27 436 -27 c 0
+ 192 -27 47 105 47 275 c 0
+312 326 m 0
+ 312 184 394 88 510 88 c 0
+ 586 88 642 136 642 214 c 0
+ 642 310 511 392 375 494 c 1
+ 331 446 312 416 312 326 c 0
+353 970 m 0
+ 353 894 424 795 544 724 c 1
+ 598 757 615 800 615 882 c 0
+ 615 1015 544 1094 464 1094 c 0
+ 390 1094 353 1036 353 970 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" eight.osf
+Colour: ffff
+EndChar
+
+StartChar: eight.osf
+Encoding: 65536 -1 102
+Width: 928
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+52 275 m 0
+ 52 392 122 498 272 574 c 1
+ 272 586 l 1
+ 181 651 102 753 102 875 c 0
+ 102 1043 244 1200 490 1200 c 0
+ 696 1200 823 1079 823 934 c 0
+ 823 830 762 735 644 663 c 1
+ 644 650 l 1
+ 808 544 880 440 880 320 c 0
+ 880 132 696 -27 428 -27 c 0
+ 184 -27 52 105 52 275 c 0
+310 326 m 0
+ 310 205 377 90 491 90 c 0
+ 576 90 634 145 634 230 c 0
+ 634 324 521 394 372 504 c 1
+ 334 466 310 400 310 326 c 0
+354 982 m 0
+ 354 898 419 792 537 722 c 1
+ 574 756 600 804 600 890 c 0
+ 600 1006 536 1094 456 1094 c 0
+ 399 1094 354 1048 354 982 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: emdash
+Encoding: 8212 8212 103
+Width: 1387
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+61 388 m 1
+ 79 534 l 1
+ 1324 541 l 1
+ 1303 394 l 1
+ 61 388 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: endash
+Encoding: 8211 8211 104
+Width: 816
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+61 388 m 1
+ 79 534 l 1
+ 753 541 l 1
+ 730 394 l 1
+ 61 388 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: equal
+Encoding: 61 61 105
+Width: 861
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+62 280 m 5
+ 84 445 l 5
+ 794 445 l 5
+ 774 280 l 5
+ 62 280 l 5
+66 519 m 5
+ 88 684 l 5
+ 796 684 l 5
+ 776 519 l 5
+ 66 519 l 5
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: eth
+Encoding: 240 240 106
+Width: 960
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 451 m 0
+ 49 715 256 947 454 947 c 0
+ 498 947 563 930 596 872 c 1
+ 601 876 l 1
+ 586 925 549 998 517 1058 c 1
+ 309 1018 l 1
+ 318 1119 l 1
+ 471 1151 l 1
+ 433 1212 391 1266 351 1302 c 1
+ 538 1302 l 1
+ 570 1280 615 1243 659 1195 c 1
+ 816 1228 l 1
+ 805 1119 l 1
+ 730 1104 l 1
+ 837 950 915 740 915 498 c 0
+ 915 194 753 -27 483 -27 c 0
+ 171 -27 49 207 49 451 c 0
+305 498 m 1
+ 311 268 401 112 514 112 c 0
+ 642 112 665 228 665 438 c 0
+ 665 644 558 815 460 817 c 1
+ 358 817 305 707 305 498 c 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" eth.sc
+Colour: ffff
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 107
+Width: 429
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+46.5 593 m 1
+ 46.5 626.5 85 727 118 727 c 1
+ 151.5 727 544 700.5 544 667 c 1
+ 544 632 508.5 524 473.5 524 c 1
+ 438.5 524 419 490.5 384 490.5 c 1
+ 349 490.5 419 93.5 384 93.5 c 1
+ 349 93.5 509 62 474 62 c 1
+ 439 62 502.5 -18 467.5 -18 c 1
+ 432.5 -18 144 -18 109 -18 c 1
+ 74 -18 149 53 114 53 c 1
+ 79 53 237 92.5 202 92.5 c 1
+ 167 92.5 237 492 202 492 c 1
+ 167 492 46.5 558 46.5 593 c 1
+EndSplineSet
+Fore
+SplineSet
+47 110 m 4
+ 47 176 99 245 213 245 c 4
+ 333 245 384 176 384 110 c 4
+ 384 32 331 -31 212 -31 c 4
+ 90 -31 47 38 47 110 c 4
+69 1220 m 4
+ 69 1272 138 1299 237 1299 c 4
+ 303 1299 347 1286 347 1234 c 4
+ 347 1031 309 636 279 360 c 5
+ 153 384 l 5
+ 123 649 69 1084 69 1220 c 4
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: exclamdown
+Encoding: 161 161 108
+Width: 434
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 107 33 S -1 0 0 -1 426 848 2
+Colour: ffff
+EndChar
+
+StartChar: f
+Encoding: 102 102 109
+Width: 719
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+45 0 m 1
+ 57 116 l 1
+ 210 173 l 1
+ 210 742 l 1
+ 61 742 l 1
+ 71 853 l 1
+ 209 876 l 1
+ 233 1156 426 1305 621 1305 c 0
+ 727 1305 855 1284 855 1172 c 0
+ 855 1102 775 1041 717 1031 c 1
+ 677 1095 625 1176 559 1176 c 0
+ 493 1176 445 1138 443 968 c 1
+ 441 870 l 1
+ 701 870 l 1
+ 689 742 l 1
+ 441 742 l 1
+ 441 180 l 1
+ 687 128 l 1
+ 679 0 l 1
+ 45 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" f.sc
+Colour: ffff
+EndChar
+
+StartChar: five
+Encoding: 53 53 110
+Width: 865
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+46 40 m 1
+ 98 408 l 1
+ 216 380 l 1
+ 247 136 l 1
+ 276 100 322 84 376 84 c 0
+ 477 84 564 152 564 269 c 0
+ 564 431 421 550 131 560 c 1
+ 252 1168 l 1
+ 761 1198 l 1
+ 726 952 l 1
+ 334 938 l 1
+ 310 766 l 1
+ 684 754 815 572 815 368 c 0
+ 815 131 560 -38 305 -38 c 0
+ 204 -38 114 -18 46 40 c 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" five.osf
+Colour: ffff
+EndChar
+
+StartChar: five.osf
+Encoding: 65537 -1 111
+Width: 829
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+-20 -134 m 0
+ -20 -42 42 17 132 35 c 1
+ 160 -49 224 -182 362 -182 c 0
+ 480 -182 552 -96 552 42 c 0
+ 552 210 399 331 118 359 c 1
+ 250 957 l 1
+ 753 996 l 1
+ 720 756 l 1
+ 312 742 l 1
+ 288 569 l 1
+ 626 535 786 357 786 142 c 0
+ 786 -74 599 -302 290 -302 c 0
+ 94 -302 -20 -216 -20 -134 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: four
+Encoding: 52 52 112
+Width: 1127
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 448 m 1
+ 741 1218 l 1
+ 836 1193 l 1
+ 830 1073 825 863 825 682 c 2
+ 825 496 l 1
+ 1080 496 l 1
+ 1064 331 l 1
+ 825 331 l 1
+ 825 147 l 1
+ 1041 102 l 1
+ 1031 -1 l 1
+ 324 -1 l 1
+ 329 90 l 1
+ 571 150 l 1
+ 571 334 l 1
+ 71 334 l 1
+ 47 448 l 1
+297 496 m 1
+ 569 496 l 1
+ 569 864 l 1
+ 297 496 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" four.osf
+Colour: ffff
+EndChar
+
+StartChar: four.osf
+Encoding: 65538 -1 113
+Width: 1063
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+18 172 m 1
+ 680 1004 l 1
+ 791 978 l 1
+ 785 858 782 570 782 389 c 2
+ 782 198 l 1
+ 1034 198 l 1
+ 1016 47 l 1
+ 785 47 l 1
+ 785 -273 l 1
+ 526 -314 l 1
+ 526 51 l 1
+ 49 51 l 1
+ 18 172 l 1
+248 198 m 1
+ 528 198 l 1
+ 528 622 l 1
+ 248 198 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: g
+Encoding: 103 103 114
+Width: 1008
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+35 -156 m 0
+ 35 -84 118 -14 194 12 c 1
+ 194 24 l 1
+ 132 54 99 99 99 169 c 0
+ 99 239 200 318 280 342 c 1
+ 279 354 l 1
+ 221 374 115 480 115 606 c 0
+ 115 768 270 920 472 920 c 0
+ 600 920 671 887 717 857 c 1
+ 749 861 942 881 942 881 c 1
+ 967 852 l 1
+ 925 700 l 1
+ 900 698 l 1
+ 793 732 l 1
+ 791 722 l 1
+ 799 700 809 660 809 627 c 0
+ 809 431 631 317 457 317 c 0
+ 426 317 395 323 379 326 c 1
+ 360 306 341 281 341 257 c 0
+ 341 223 368 196 481 196 c 2
+ 617 196 l 2
+ 804 196 925 146 925 -27 c 0
+ 925 -204 707 -386 409 -386 c 0
+ 249 -386 35 -340 35 -156 c 0
+262 -94 m 0
+ 262 -200 345 -243 477 -243 c 0
+ 598 -243 685 -205 685 -102 c 0
+ 685 -22 630 3 482 3 c 2
+ 297 3 l 1
+ 292 -12 262 -36 262 -94 c 0
+335 626 m 0
+ 335 468 442 422 463 422 c 0
+ 553 422 589 468 589 609 c 0
+ 589 671 553 818 449 818 c 0
+ 379 818 335 758 335 626 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" g.sc
+Colour: ffff
+EndChar
+
+StartChar: germandbls
+Encoding: 223 223 115
+Width: 1265
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+46 0 m 1
+ 58 116 l 1
+ 211 173 l 1
+ 211 742 l 1
+ 64 742 l 1
+ 73 849 l 1
+ 211 872 l 1
+ 227 1118 432 1306 691 1306 c 0
+ 907 1306 1036 1221 1036 1054 c 0
+ 1036 856 764 830 764 714 c 0
+ 764 566 1224 554 1224 248 c 0
+ 1224 74 1055 -34 855 -34 c 0
+ 683 -34 535 46 535 154 c 0
+ 535 246 601 295 697 302 c 1
+ 731 170 808 95 884 95 c 0
+ 958 95 1004 110 1004 176 c 0
+ 1004 304 565 346 565 630 c 0
+ 565 852 789 901 789 1014 c 0
+ 789 1106 734 1176 622 1176 c 0
+ 542 1176 443 1123 443 932 c 2
+ 443 0 l 1
+ 46 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" germandbls.sc
+Colour: ffff
+EndChar
+
+StartChar: grave
+Encoding: 96 96 116
+Width: 508
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+75 1658 m 1
+ 292 1696 l 1
+ 432 1356 l 1
+ 275 1323 l 1
+ 75 1658 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: greater
+Encoding: 62 62 117
+Width: 825
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 12 m 1
+ 444 454 l 1
+ 56 870 l 1
+ 157 974 l 1
+ 777 494 l 5
+ 777 419 l 5
+ 144 -84 l 1
+ 40 12 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: guillemotleft
+Encoding: 171 171 118
+Width: 757
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 120 8249 S 1 0 0 1 37 0 2
+Refer: 120 8249 S 1 0 0 1 357 0 2
+Colour: ffff
+EndChar
+
+StartChar: guillemotright
+Encoding: 187 187 119
+Width: 757
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 118 171 S -1 0 0 1 720 0 2
+Colour: ffff
+EndChar
+
+StartChar: guilsinglleft
+Encoding: 8249 8249 120
+Width: 437
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 469 m 1
+ 318 819 l 1
+ 377 736 l 1
+ 237 460 l 1
+ 385 166 l 1
+ 311 76 l 1
+ 49 448 l 1
+ 50 469 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: guilsinglright
+Encoding: 8250 8250 121
+Width: 437
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 120 8249 S -1 0 0 1 400 0 2
+Colour: ffff
+EndChar
+
+StartChar: h
+Encoding: 104 104 122
+Width: 1182
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+52 -1 m 1
+ 66 117 l 1
+ 214 172 l 1
+ 214 1080 l 5
+ 48 1157 l 5
+ 66 1277 l 5
+ 406 1302 l 5
+ 448 1262 l 5
+ 448 874 l 1
+ 430 754 l 1
+ 442 752 l 1
+ 530 846 628 914 740 914 c 0
+ 882 914 984 845 984 619 c 2
+ 984 170 l 1
+ 1131 121 l 1
+ 1114 -1 l 1
+ 671 -1 l 1
+ 677 114 l 1
+ 744 170 l 1
+ 746 504 l 2
+ 746 639 682 682 612 682 c 0
+ 560 682 512 666 456 612 c 1
+ 456 172 l 1
+ 586 122 l 1
+ 566 -1 l 1
+ 52 -1 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" h.sc
+Colour: ffff
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 123
+Width: 632
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+61 378 m 5
+ 75 516 l 5
+ 569 537 l 5
+ 555 394 l 5
+ 61 378 l 5
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: i
+Encoding: 105 105 124
+Width: 664
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+48 0 m 1
+ 58 128 l 1
+ 211 173 l 1
+ 211 675 l 1
+ 62 757 l 1
+ 84 882 l 1
+ 412 906 l 1
+ 452 866 l 1
+ 452 173 l 1
+ 613 127 l 1
+ 602 0 l 1
+ 48 0 l 1
+143 1166 m 0
+ 143 1240 210 1298 318 1298 c 0
+ 430 1298 498 1237 498 1164 c 0
+ 498 1089 436 1024 318 1024 c 0
+ 198 1024 143 1090 143 1166 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" i.sc
+Colour: ffff
+EndChar
+
+StartChar: iacute
+Encoding: 237 237 125
+Width: 665
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 0 m 1
+ 59 128 l 1
+ 212 173 l 1
+ 212 651 l 1
+ 63 731 l 1
+ 85 858 l 1
+ 413 882 l 1
+ 453 840 l 1
+ 453 173 l 1
+ 614 127 l 1
+ 603 0 l 1
+ 49 0 l 1
+EndSplineSet
+Refer: 60 180 N 1 0 0 1 152 -314 2
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" iacute.sc
+Colour: ffff
+EndChar
+
+StartChar: icircumflex
+Encoding: 238 238 126
+Width: 666
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 0 m 1
+ 59 128 l 1
+ 212 173 l 1
+ 212 651 l 1
+ 63 731 l 1
+ 85 858 l 1
+ 413 882 l 1
+ 453 840 l 1
+ 453 173 l 1
+ 614 127 l 1
+ 603 0 l 1
+ 49 0 l 1
+EndSplineSet
+Refer: 83 710 S 1 0 0 1 21 -307 2
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" icircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: idieresis
+Encoding: 239 239 127
+Width: 676
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 0 m 1
+ 59 128 l 1
+ 212 173 l 1
+ 212 651 l 1
+ 63 731 l 1
+ 85 858 l 1
+ 413 882 l 1
+ 453 840 l 1
+ 453 173 l 1
+ 614 127 l 1
+ 603 0 l 1
+ 49 0 l 1
+EndSplineSet
+Refer: 92 168 S 1 0 0 1 24 -307 2
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" idieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: igrave
+Encoding: 236 236 128
+Width: 665
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 0 m 1
+ 59 128 l 1
+ 212 173 l 1
+ 212 651 l 1
+ 63 731 l 1
+ 85 858 l 1
+ 413 882 l 1
+ 453 840 l 1
+ 453 173 l 1
+ 614 127 l 1
+ 603 0 l 1
+ 49 0 l 1
+EndSplineSet
+Refer: 116 96 N 1 0 0 1 71 -274 2
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" igrave.sc
+Colour: ffff
+EndChar
+
+StartChar: j
+Encoding: 106 106 129
+Width: 608
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+35 -254 m 1
+ 143 -175 274 -75 274 195 c 2
+ 274 668 l 1
+ 126 752 l 1
+ 152 883 l 1
+ 474 905 l 1
+ 516 866 l 1
+ 516 150 l 2
+ 516 -162 318 -289 148 -365 c 2
+ 100 -382 l 1
+ 35 -254 l 1
+200 1161 m 0
+ 200 1239 269 1302 380 1302 c 0
+ 494 1302 560 1237 560 1160 c 0
+ 560 1082 498 1012 378 1012 c 0
+ 256 1012 200 1083 200 1161 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" j.sc
+Colour: ffff
+EndChar
+
+StartChar: k
+Encoding: 107 107 130
+Width: 1158
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1
+ 63 128 l 1
+ 215 173 l 1
+ 215 1072 l 5
+ 53 1149 l 5
+ 76 1273 l 5
+ 414 1298 l 5
+ 457 1256 l 5
+ 457 173 l 1
+ 591 127 l 1
+ 573 0 l 1
+ 50 0 l 1
+479 417 m 1
+ 485 450 l 1
+ 707 768 l 1
+ 573 817 l 1
+ 589 934 l 1
+ 1069 934 l 1
+ 1048 822 l 1
+ 900 769 l 1
+ 699 495 l 1
+ 745 434 l 2
+ 881 245 951 153 1069 109 c 2
+ 1109 92 l 1
+ 1090 0 l 1
+ 1076 -2 1010 -18 934 -18 c 0
+ 791 -18 703 82 568 283 c 1
+ 479 417 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" k.sc
+Colour: ffff
+EndChar
+
+StartChar: l
+Encoding: 108 108 131
+Width: 663
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 0 m 1
+ 63 128 l 1
+ 215 173 l 1
+ 215 1076 l 5
+ 53 1154 l 5
+ 76 1278 l 5
+ 415 1302 l 5
+ 456 1262 l 5
+ 456 173 l 1
+ 614 127 l 1
+ 601 0 l 1
+ 50 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" l.sc
+Colour: ffff
+EndChar
+
+StartChar: less
+Encoding: 60 60 132
+Width: 826
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 117 62 S -1 0 0 1 815 0 2
+Colour: ffff
+EndChar
+
+StartChar: logicalnot
+Encoding: 172 172 133
+Width: 908
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+56 509 m 1
+ 68 662 l 1
+ 841 662 l 1
+ 843 306 l 1
+ 680 286 l 1
+ 680 509 l 1
+ 56 509 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: m
+Encoding: 109 109 134
+Width: 1713
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+51 0 m 1
+ 64 116 l 1
+ 210 172 l 1
+ 210 680 l 1
+ 59 746 l 1
+ 77 867 l 1
+ 431 902 l 1
+ 459 872 l 1
+ 439 758 l 1
+ 451 756 l 1
+ 529 844 626 912 745 912 c 0
+ 847 912 935 868 967 746 c 1
+ 981 744 l 1
+ 1058 832 1159 908 1277 908 c 0
+ 1433 908 1518 816 1518 625 c 2
+ 1518 172 l 1
+ 1661 122 l 1
+ 1643 0 l 1
+ 1213 0 l 1
+ 1216 116 l 1
+ 1279 172 l 1
+ 1279 507 l 2
+ 1279 619 1232 681 1147 681 c 0
+ 1079 681 1031 650 987 608 c 1
+ 987 172 l 1
+ 1126 122 l 1
+ 1109 0 l 1
+ 679 0 l 1
+ 684 116 l 1
+ 749 172 l 1
+ 749 507 l 2
+ 749 623 696 681 617 681 c 0
+ 557 681 499 658 453 612 c 1
+ 453 172 l 1
+ 587 122 l 1
+ 567 0 l 1
+ 51 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" m.sc
+Colour: ffff
+EndChar
+
+StartChar: macron
+Encoding: 175 175 135
+Width: 619
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+77 1379 m 1
+ 94 1526 l 1
+ 541 1526 l 1
+ 524 1379 l 1
+ 77 1379 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: multiply
+Encoding: 215 215 136
+Width: 612
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+52 319 m 1
+ 207 462 l 1
+ 48 618 l 1
+ 164 708 l 1
+ 312 554 l 1
+ 479 720 l 1
+ 568 602 l 1
+ 408 457 l 1
+ 566 298 l 1
+ 452 204 l 1
+ 304 366 l 1
+ 144 203 l 1
+ 52 319 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: n
+Encoding: 110 110 137
+Width: 1188
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 0 m 1
+ 63 115 l 1
+ 209 172 l 1
+ 209 680 l 1
+ 61 747 l 1
+ 80 869 l 1
+ 431 903 l 1
+ 458 874 l 1
+ 438 759 l 1
+ 451 756 l 1
+ 531 844 626 914 745 914 c 0
+ 897 914 989 821 989 628 c 2
+ 989 172 l 1
+ 1135 122 l 1
+ 1119 0 l 1
+ 676 0 l 1
+ 681 115 l 1
+ 750 172 l 1
+ 750 503 l 2
+ 750 631 695 682 615 682 c 0
+ 555 682 499 660 453 614 c 1
+ 453 172 l 1
+ 589 122 l 1
+ 567 0 l 1
+ 49 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" n.sc
+Colour: ffff
+EndChar
+
+StartChar: nbspace
+Encoding: 160 160 138
+Width: 152
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Colour: ffff
+EndChar
+
+StartChar: nine
+Encoding: 57 57 139
+Width: 949
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 780 m 0
+ 49 1054 257 1214 473 1214 c 0
+ 767 1214 895 1022 895 772 c 0
+ 895 363 634 25 241 -26 c 1
+ 205 68 l 1
+ 463 154 567 314 591 521 c 1
+ 581 526 l 1
+ 525 469 435 444 351 444 c 0
+ 187 444 49 560 49 780 c 0
+329 856 m 0
+ 329 706 363 599 463 599 c 0
+ 509 599 561 620 593 660 c 1
+ 599 700 602 769 602 817 c 0
+ 602 979 551 1098 461 1098 c 0
+ 359 1098 329 1016 329 856 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" nine.osf
+Colour: ffff
+EndChar
+
+StartChar: nine.osf
+Encoding: 65539 -1 140
+Width: 896
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+38 540 m 0
+ 38 824 233 1000 449 1000 c 0
+ 743 1000 852 776 852 506 c 0
+ 852 102 554 -229 184 -298 c 1
+ 148 -204 l 1
+ 386 -110 520 71 554 273 c 1
+ 544 278 l 1
+ 504 218 422 182 336 182 c 0
+ 140 182 38 324 38 540 c 0
+310 607 m 0
+ 310 420 349 331 447 331 c 0
+ 491 331 535 352 563 392 c 1
+ 571 436 572 513 572 567 c 0
+ 572 751 523 884 433 884 c 0
+ 353 884 310 805 310 607 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: ntilde
+Encoding: 241 241 141
+Width: 1188
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 192 732 N 1 0 0 1 239 -296 2
+Refer: 137 110 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ntilde.sc
+Colour: ffff
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 142
+Width: 1170
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+-73.874 686.307 m 1
+ 30.0909 834.626 l 1
+ 236.611 -52.9641 l 1
+ 253.058 456.828 l 1
+ -73.874 686.307 l 1
+638.919 257.975 m 1
+ 1144.88 189.327 l 1
+ 428.908 708.81 l 1
+ -82.9195 777.459 l 1
+ 638.919 257.975 l 1
+EndSplineSet
+Fore
+SplineSet
+241 -26 m 9
+ 418 1148 l 17
+ 582 1158 l 9
+ 406 -19 l 17
+ 241 -26 l 9
+114 680 m 17
+ 159 854 l 9
+ 1127 854 l 17
+ 1085 680 l 9
+ 114 680 l 17
+43 296 m 1
+ 87 470 l 9
+ 1052 470 l 17
+ 1010 296 l 1
+ 43 296 l 1
+571 -26 m 9
+ 747 1148 l 17
+ 913 1156 l 9
+ 736 -19 l 17
+ 571 -26 l 9
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" numbersign.osf
+Colour: ffff
+EndChar
+
+StartChar: o
+Encoding: 111 111 143
+Width: 989
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 446 m 0
+ 50 751 292 927 515 927 c 0
+ 789 927 944 759 944 466 c 0
+ 944 168 754 -27 492 -27 c 0
+ 176 -27 50 193 50 446 c 0
+306 512 m 0
+ 306 288 365 119 525 119 c 0
+ 637 119 686 215 686 358 c 0
+ 686 548 645 770 475 770 c 0
+ 351 770 306 659 306 512 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" o.sc
+Colour: ffff
+EndChar
+
+StartChar: oacute
+Encoding: 243 243 144
+Width: 989
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 N 1 0 0 1 311 -314 2
+Refer: 143 111 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" oacute.sc
+Colour: ffff
+EndChar
+
+StartChar: ocircumflex
+Encoding: 244 244 145
+Width: 989
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 83 710 S 1 0 0 1 180 -307 2
+Refer: 143 111 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ocircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: odieresis
+Encoding: 246 246 146
+Width: 989
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 S 1 0 0 1 182 -307 2
+Refer: 143 111 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" odieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: ograve
+Encoding: 242 242 147
+Width: 989
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 116 96 N 1 0 0 1 230 -274 2
+Refer: 143 111 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ograve.sc
+Colour: ffff
+EndChar
+
+StartChar: one
+Encoding: 49 49 148
+Width: 887
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+44 -2 m 1
+ 56 99 l 1
+ 300 156 l 1
+ 300 973 l 1
+ 67 973 l 1
+ 76 1095 l 1
+ 534 1186 l 1
+ 594 1186 l 1
+ 594 146 l 1
+ 843 108 l 1
+ 832 -2 l 1
+ 44 -2 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" one.osf
+Colour: ffff
+EndChar
+
+StartChar: one.osf
+Encoding: 65540 -1 149
+Width: 739
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 -2 m 1
+ 53 99 l 1
+ 247 156 l 1
+ 247 774 l 1
+ 62 775 l 1
+ 73 897 l 1
+ 453 986 l 1
+ 512 986 l 1
+ 512 146 l 1
+ 716 106 l 1
+ 704 -2 l 1
+ 40 -2 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: onehalf
+Encoding: 189 189 150
+Width: 1713
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+1049 114 m 1
+ 1185 216 l 2
+ 1306 308 1373 400 1373 466 c 0
+ 1373 521 1353 571 1283 571 c 0
+ 1249 571 1224 555 1207 536 c 1
+ 1177 386 l 1
+ 1088 393 l 1
+ 1059 592 l 1
+ 1117 664 1245 708 1367 708 c 0
+ 1551 708 1637 617 1637 520 c 0
+ 1637 367 1476 258 1336 180 c 2
+ 1263 141 l 1
+ 1498 131 l 1
+ 1581 268 l 1
+ 1665 254 l 1
+ 1639 -29 l 1
+ 1053 -29 l 1
+ 1049 114 l 1
+45 530 m 1
+ 55 632 l 1
+ 195 662 l 1
+ 195 1098 l 1
+ 62 1098 l 1
+ 69 1220 l 1
+ 409 1260 l 1
+ 453 1260 l 1
+ 453 656 l 1
+ 598 640 l 1
+ 591 530 l 1
+ 45 530 l 1
+253 12 m 1
+ 735 588 l 1
+ 1201 1208 l 1
+ 1441 1206 l 1
+ 1439 1154 l 1
+ 969 591 l 1
+ 537 -26 l 1
+ 253 12 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: onequarter
+Encoding: 188 188 151
+Width: 1652
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+933 282 m 1
+ 1387 722 l 1
+ 1471 704 l 1
+ 1466 640 1461 526 1461 428 c 2
+ 1461 293 l 1
+ 1609 293 l 1
+ 1600 160 l 1
+ 1461 160 l 1
+ 1461 73 l 1
+ 1571 50 l 1
+ 1565 -30 l 1
+ 1115 -30 l 1
+ 1119 44 l 1
+ 1237 74 l 1
+ 1237 163 l 1
+ 947 163 l 1
+ 933 282 l 1
+1088 274 m 1
+ 1245 274 l 1
+ 1245 474 l 1
+ 1088 274 l 1
+45 530 m 1
+ 55 632 l 1
+ 195 662 l 1
+ 195 1098 l 1
+ 62 1098 l 1
+ 69 1220 l 1
+ 409 1260 l 1
+ 453 1260 l 1
+ 453 656 l 1
+ 598 640 l 1
+ 591 530 l 1
+ 45 530 l 1
+263 12 m 1
+ 745 588 l 1
+ 1211 1208 l 1
+ 1451 1206 l 1
+ 1449 1154 l 1
+ 979 591 l 1
+ 547 -26 l 1
+ 263 12 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: one.superior
+Encoding: 185 185 152
+Width: 654
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+51 530 m 1
+ 60 632 l 1
+ 201 662 l 1
+ 201 1098 l 1
+ 67 1098 l 1
+ 75 1220 l 1
+ 415 1260 l 1
+ 459 1260 l 1
+ 459 656 l 1
+ 603 640 l 1
+ 597 530 l 1
+ 51 530 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: ordfeminine
+Encoding: 170 170 153
+Width: 799
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+51 672 m 0
+ 51 802 161 935 421 934 c 1
+ 421 989 l 2
+ 421 1080 398 1151 320 1151 c 0
+ 266 1151 256 1108 245 973 c 1
+ 157 969 79 998 79 1086 c 0
+ 79 1176 267 1269 409 1269 c 0
+ 543 1269 633 1201 633 1024 c 2
+ 633 787 l 2
+ 633 705 646 678 719 664 c 2
+ 752 658 l 1
+ 736 559 l 1
+ 693 527 658 513 594 513 c 0
+ 501 513 457 558 445 614 c 2
+ 443 625 l 1
+ 434 627 l 1
+ 411 574 335 511 223 511 c 0
+ 125 511 51 565 51 672 c 0
+264 733 m 0
+ 264 697 282 659 334 659 c 0
+ 374 659 396 681 421 704 c 1
+ 421 854 l 1
+ 295 835 264 789 264 733 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: ordmasculine
+Encoding: 186 186 154
+Width: 849
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+51 888 m 0
+ 51 1132 255 1274 439 1274 c 0
+ 664 1274 797 1138 797 904 c 0
+ 797 666 635 510 420 510 c 0
+ 161 510 51 686 51 888 c 0
+280 942 m 0
+ 280 763 314 627 447 627 c 0
+ 541 627 566 704 566 818 c 0
+ 566 970 547 1148 406 1148 c 0
+ 303 1148 280 1060 280 942 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: oslash
+Encoding: 248 248 155
+Width: 1022
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 -16 m 1
+ 203 176 l 1
+ 271 196 l 1
+ 675 722 l 1
+ 694 794 l 1
+ 802 926 l 1
+ 982 912 l 1
+ 827 720 l 1
+ 746 675 l 1
+ 332 140 l 1
+ 322 86 l 1
+ 229 -30 l 1
+ 43 -16 l 1
+318 512 m 0
+ 318 288 377 119 537 119 c 0
+ 649 119 697 215 697 358 c 0
+ 697 548 657 770 487 770 c 0
+ 363 770 318 659 318 512 c 0
+61 446 m 0
+ 61 751 304 927 527 927 c 0
+ 801 927 956 759 956 466 c 0
+ 956 168 766 -27 504 -27 c 0
+ 188 -27 61 193 61 446 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" oslash.sc
+Colour: ffff
+EndChar
+
+StartChar: otilde
+Encoding: 245 245 156
+Width: 989
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 192 732 N 1 0 0 1 169 -296 2
+Refer: 143 111 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" otilde.sc
+Colour: ffff
+EndChar
+
+StartChar: p
+Encoding: 112 112 157
+Width: 1084
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+37 -371 m 1
+ 49 -253 l 1
+ 203 -199 l 1
+ 203 684 l 1
+ 51 747 l 1
+ 70 870 l 1
+ 423 902 l 1
+ 453 874 l 1
+ 435 768 l 1
+ 445 765 l 1
+ 494 835 587 920 719 920 c 0
+ 889 920 1039 794 1039 478 c 0
+ 1039 161 833 -19 567 -19 c 0
+ 537 -19 475 -18 442 -6 c 1
+ 439 168 l 1
+ 489 144 531 135 595 135 c 0
+ 713 135 785 232 785 398 c 0
+ 785 590 734 706 623 706 c 0
+ 559 706 495 672 441 628 c 1
+ 441 -200 l 1
+ 641 -251 l 1
+ 624 -371 l 1
+ 37 -371 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" p.sc
+Colour: ffff
+EndChar
+
+StartChar: paragraph
+Encoding: 182 182 158
+Width: 1480
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 812 m 0
+ 47 1065 241 1245 519 1245 c 2
+ 957 1245 l 1
+ 957 -1 l 1
+ 482 -1 l 1
+ 491 105 l 1
+ 741 168 l 1
+ 741 1110 l 1
+ 689 1117 631 1121 601 1121 c 0
+ 416 1121 323 1031 323 861 c 0
+ 323 716 411 572 621 574 c 1
+ 603 428 l 1
+ 281 411 47 532 47 812 c 0
+1053 -1 m 1
+ 1053 1245 l 1
+ 1433 1245 l 1
+ 1419 1128 l 1
+ 1245 1076 l 1
+ 1245 164 l 1
+ 1431 114 l 1
+ 1421 -1 l 1
+ 1053 -1 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" paragraph.sc
+Colour: ffff
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 159
+Width: 533
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 160 41 N -1 0 0 1 508 0 2
+Colour: ffff
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 160
+Width: 532
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 1160 m 1
+ 138 1255 l 1
+ 203 1200 476 960 476 436 c 0
+ 476 -78 188 -328 139 -376 c 1
+ 39 -298 l 1
+ 106 -194 233 40 233 454 c 0
+ 233 878 135 1048 49 1160 c 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: percent
+Encoding: 37 37 161
+Width: 1465
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+-57.187 1009.63 m 0
+ -57.187 1200.45 122.634 1362.99 284.956 1362.99 c 0
+ 465.978 1362.99 611.529 1207.52 611.529 1006.1 c 0
+ 611.529 815.281 441.742 657.277 287.482 657.277 c 0
+ 100.617 657.277 -57.187 795.089 -57.187 1009.63 c 0
+181.239 1004.63 m 0
+ 181.239 872.371 210.182 761.507 287.482 761.507 c 0
+ 362.385 761.507 383.156 870.854 383.156 1007.66 c 0
+ 383.156 1142.95 351.273 1269.89 284.956 1269.89 c 0
+ 203.543 1269.89 181.239 1133.36 181.239 1004.63 c 0
+EndSplineSet
+Fore
+SplineSet
+44 897 m 0
+ 44 1049 208 1210 358 1210 c 0
+ 374 1210 374 1209 384 1207 c 1
+ 394 1114 l 17
+ 385 1117 371 1122 361 1122 c 0
+ 299 1122 280 1013 280 897 c 0
+ 280 780 294 672 363 672 c 0
+ 430 672 446 777 446 897 c 0
+ 446 1039 435 1138 422 1203 c 9
+ 1080 1208 l 25
+ 1090 1124 l 25
+ 584 1121 l 17
+ 655 1059 674 947 674 897 c 0
+ 674 723 505 580 363 580 c 0
+ 189 580 44 701 44 897 c 0
+132 12 m 1
+ 614 588 l 1
+ 1080 1208 l 1
+ 1314 1206 l 1
+ 1314 1154 l 1
+ 842 591 l 1
+ 410 -26 l 1
+ 132 12 l 1
+788 276 m 0
+ 788 445 964 590 1110 590 c 0
+ 1273 590 1418 452 1418 274 c 0
+ 1418 105 1251 -36 1112 -36 c 0
+ 942 -36 788 86 788 276 c 0
+1025 272 m 0
+ 1025 155 1044 60 1112 60 c 0
+ 1176 60 1190 153 1190 274 c 0
+ 1190 394 1166 504 1110 504 c 0
+ 1040 504 1025 386 1025 272 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" percent.osf
+Colour: ffff
+EndChar
+
+StartChar: period
+Encoding: 46 46 162
+Width: 455
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+61 110 m 4
+ 61 174 111 242 225 242 c 4
+ 345 242 395 174 395 110 c 4
+ 395 34 342 -28 225 -28 c 4
+ 105 -28 61 40 61 110 c 4
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: periodcentered
+Encoding: 183 183 163
+Width: 455
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 162 46 N 1 0 0 1 24 350 2
+Colour: ffff
+EndChar
+
+StartChar: plus
+Encoding: 43 43 164
+Width: 702
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+52 392 m 5
+ 62 526 l 5
+ 276 526 l 5
+ 276 764 l 5
+ 425 752 l 5
+ 425 526 l 5
+ 648 526 l 5
+ 635 392 l 5
+ 425 392 l 5
+ 426 158 l 5
+ 276 166 l 5
+ 276 392 l 5
+ 52 392 l 5
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: plusminus
+Encoding: 177 177 165
+Width: 689
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 123 45 S 1 0 0 1 60 -240 2
+Refer: 164 43 N 1 0 0 1 20 160 2
+Colour: ffff
+EndChar
+
+StartChar: q
+Encoding: 113 113 166
+Width: 1074
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 399 m 0
+ 49 663 274 916 522 916 c 0
+ 583 916 651 895 696 875 c 1
+ 839 914 l 1
+ 879 910 l 1
+ 879 -194 l 1
+ 1038 -244 l 1
+ 1024 -364 l 1
+ 482 -364 l 1
+ 496 -246 l 1
+ 648 -194 l 1
+ 648 622 l 1
+ 617 686 546 742 476 742 c 0
+ 364 742 298 645 298 477 c 0
+ 298 277 378 167 479 167 c 0
+ 529 167 601 181 640 208 c 1
+ 638 81 l 1
+ 566 2 445 -20 373 -20 c 0
+ 191 -20 49 107 49 399 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" q.sc
+Colour: ffff
+EndChar
+
+StartChar: question
+Encoding: 63 63 167
+Width: 690
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+42 1142 m 4
+ 42 1210 90 1289 255 1289 c 4
+ 439 1289 642 1069 642 833 c 4
+ 642 573 354 624 354 474 c 4
+ 354 449 358 424 367 394 c 5
+ 249 370 l 5
+ 202 440 164 544 164 610 c 4
+ 164 806 480 754 480 926 c 4
+ 480 996 407 1046 350 1046 c 4
+ 272 1046 184 1014 150 978 c 5
+ 101 992 42 1067 42 1142 c 4
+140 110 m 4
+ 140 176 192 245 306 245 c 4
+ 426 245 477 176 477 110 c 4
+ 477 32 425 -31 306 -31 c 4
+ 184 -31 140 38 140 110 c 4
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: questiondown
+Encoding: 191 191 168
+Width: 697
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 167 63 S -1 0 0 -1 675 1258 2
+Colour: ffff
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 169
+Width: 633
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 171 39 N 1 0 0 1 29 -20 2
+Refer: 171 39 N 1 0 0 1 304 -20 2
+Colour: ffff
+EndChar
+
+StartChar: quotesinglbase
+Encoding: 8218 8218 170
+Width: 498
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 85 44 S 1 0 0 1 30 0 2
+Colour: ffff
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 171
+Width: 357
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+54 1302 m 5
+ 301 1282 l 5
+ 253 912 l 5
+ 119 893 l 5
+ 54 1302 l 5
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: r
+Encoding: 114 114 172
+Width: 813
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+351.497 422.358 m 1
+ 327.342 443.061 312.723 531.914 290.639 531.914 c 1
+ 271.316 531.914 322.302 555.836 301.598 531.682 c 1
+ 280.894 507.527 267.437 679.557 261.225 636.768 c 1
+ 190.225 436.069 l 1
+ 348.652 499.365 l 1
+ 543.941 459 l 1
+ 217.187 439.5 l 1
+ 212.934 435.083 l 1
+ 315.672 456.928 l 1
+ 361.672 504.928 404.172 920.828 460.396 920.828 c 1
+ 533.172 920.828 481.723 911.04 481.723 807.04 c 1
+ 490.004 648.66 l 1
+ 743.091 640.47 l 1
+ 744.014 543.48 l 1
+ 515.662 398.548 l 1
+ 528.084 477.048 l 1
+ 543.958 531.568 565.351 609.494 592.266 638.825 c 1
+ 619.182 668.155 646.786 782.815 675.082 782.815 c 1
+ 697.856 846.997 699.644 862.259 682.583 848.114 c 0
+ 673.25 833.969 659.151 810.215 638.651 772.892 c 1
+ 638.651 745.286 638.651 630.715 638.651 611.392 c 1
+ 638.651 583.786 700.151 599.215 700.151 579.892 c 1
+ 700.151 552.286 686.151 516.215 686.151 496.892 c 1
+ 686.151 469.286 383.932 444.442 351.497 422.358 c 1
+EndSplineSet
+Fore
+SplineSet
+48 1 m 1
+ 64 118 l 1
+ 214 172 l 1
+ 214 686 l 1
+ 62 749 l 1
+ 82 871 l 1
+ 408 904 l 1
+ 439 872 l 1
+ 420 687 l 1
+ 439 682 l 1
+ 491 848 586 918 680 918 c 0
+ 770 918 822 856 822 782 c 0
+ 822 707 784 654 731 610 c 1
+ 684 640 641 654 605 654 c 0
+ 530 654 474 580 452 482 c 1
+ 452 186 l 1
+ 688 138 l 1
+ 676 1 l 1
+ 48 1 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" r.sc
+Colour: ffff
+EndChar
+
+StartChar: registered
+Encoding: 174 174 173
+Width: 1147
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+268 775 m 1
+ 275 830 l 1
+ 353 862 l 1
+ 353 1235 l 1
+ 274 1254 l 1
+ 280 1317 l 1
+ 345 1327 479 1339 546 1339 c 0
+ 708 1339 805 1301 805 1187 c 0
+ 805 1110 737 1054 679 1034 c 1
+ 678 1033 l 1
+ 737 956 l 2
+ 782 895 827 865 873 841 c 2
+ 890 832 l 1
+ 877 775 l 1
+ 858 769 827 763 788 763 c 0
+ 687 763 626 823 586 918 c 2
+ 555 990 l 1
+ 510 990 l 1
+ 510 866 l 1
+ 574 836 l 1
+ 569 775 l 1
+ 268 775 l 1
+510 1071 m 1
+ 579 1071 l 1
+ 616 1089 636 1117 636 1165 c 0
+ 636 1222 602 1264 533 1264 c 0
+ 522 1264 514 1263 510 1263 c 1
+ 510 1071 l 1
+45 1022 m 0
+ 45 1366 296 1532 564 1532 c 0
+ 840 1532 1099 1378 1099 1026 c 0
+ 1099 696 836 530 554 530 c 0
+ 292 530 45 694 45 1022 c 0
+158 1036 m 0
+ 158 776 327 626 562 626 c 0
+ 814 626 986 784 986 1016 c 0
+ 986 1280 800 1436 564 1436 c 0
+ 316 1436 158 1300 158 1036 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: ring
+Encoding: 730 730 174
+Width: 589
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+77 1566 m 0
+ 77 1659 154 1730 298 1730 c 0
+ 444 1730 513 1673 513 1575 c 0
+ 513 1486 441 1413 285 1413 c 0
+ 143 1413 77 1464 77 1566 c 0
+243 1572 m 0
+ 243 1520 275 1521 293 1521 c 0
+ 297 1521 343 1517 343 1573 c 0
+ 343 1623 301 1622 287 1622 c 0
+ 277 1622 243 1617 243 1572 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: s
+Encoding: 115 115 175
+Width: 784
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+52 154 m 0
+ 52 236 112 292 214 300 c 1
+ 254 162 324 94 400 94 c 0
+ 474 94 521 114 521 176 c 0
+ 521 312 81 345 81 629 c 0
+ 81 743 175 924 429 924 c 0
+ 595 924 717 866 717 754 c 0
+ 717 668 644 608 552 600 c 1
+ 532 664 l 2
+ 502 781 435 808 381 808 c 0
+ 319 808 283 765 283 714 c 0
+ 283 560 741 532 741 246 c 0
+ 741 72 571 -35 371 -35 c 0
+ 199 -35 52 46 52 154 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" s.sc
+Colour: ffff
+EndChar
+
+StartChar: section
+Encoding: 167 167 176
+Width: 963
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+50 -234 m 1
+ 67 56 l 1
+ 212 31 l 1
+ 254 -164 l 1
+ 282 -202 366 -246 454 -246 c 0
+ 545 -246 645 -200 645 -76 c 0
+ 645 176 -40 130 71 610 c 1
+ 444 424 l 2
+ 703 300 901 238 901 3 c 0
+ 901 -269 625 -388 417 -388 c 0
+ 273 -388 114 -314 50 -234 c 1
+69 912 m 0
+ 69 1167 264 1268 497 1268 c 0
+ 623 1268 741 1234 811 1178 c 1
+ 811 1162 793 893 793 893 c 1
+ 658 910 l 1
+ 621 1079 l 1
+ 596 1108 528 1151 460 1151 c 0
+ 380 1151 313 1107 313 995 c 0
+ 313 727 1033 800 891 310 c 1
+ 428 536 l 2
+ 234 630 69 714 69 912 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 177
+Width: 449
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+84 755 m 4
+ 84 813 129 874 232 874 c 4
+ 340 874 385 813 385 755 c 4
+ 385 687 337 631 232 631 c 4
+ 124 631 84 692 84 755 c 4
+84 -103 m 5
+ 196 -71 240 -1 240 56 c 4
+ 240 106 202 145 149 145 c 4
+ 137 145 124 142 111 138 c 5
+ 98 163 90 183 90 210 c 4
+ 90 300 161 347 236 347 c 4
+ 348 347 424 271 424 134 c 4
+ 424 19 356 -137 114 -186 c 5
+ 84 -103 l 5
+109 1098 m 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: seven
+Encoding: 55 55 178
+Width: 949
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+48 746 m 1
+ 67 1183 l 1
+ 904 1183 l 1
+ 904 1094 l 1
+ 460 -33 l 1
+ 158 -2 l 1
+ 677 952 l 1
+ 237 952 l 1
+ 149 726 l 1
+ 48 746 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" seven.osf
+Colour: ffff
+EndChar
+
+StartChar: seven.osf
+Encoding: 65541 -1 179
+Width: 816
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+32 592 m 1
+ 78 969 l 1
+ 786 969 l 1
+ 792 834 l 1
+ 550 436 375 136 334 -294 c 1
+ 310 -297 280 -303 258 -303 c 0
+ 158 -303 101 -252 101 -158 c 0
+ 101 5 433 496 602 748 c 1
+ 198 748 l 1
+ 134 574 l 1
+ 32 592 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: six
+Encoding: 54 54 180
+Width: 970
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+53 420 m 0
+ 53 816 431 1128 731 1214 c 1
+ 783 1140 l 1
+ 563 1032 391 832 351 636 c 1
+ 367 636 l 1
+ 417 692 497 732 591 732 c 0
+ 779 732 919 600 919 386 c 0
+ 919 118 694 -20 478 -20 c 0
+ 190 -20 53 186 53 420 c 0
+340 386 m 0
+ 340 246 381 92 484 92 c 0
+ 588 92 633 181 633 329 c 0
+ 633 425 613 580 489 580 c 0
+ 425 580 371 546 347 514 c 1
+ 345 484 340 425 340 386 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" six.osf
+Colour: ffff
+EndChar
+
+StartChar: six.osf
+Encoding: 65542 -1 181
+Width: 921
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+45 420 m 0
+ 45 816 385 1166 685 1252 c 1
+ 736 1178 l 1
+ 516 1075 380 853 340 666 c 1
+ 354 666 l 1
+ 412 731 493 764 573 764 c 0
+ 779 764 878 612 878 406 c 0
+ 878 139 661 -20 453 -20 c 0
+ 173 -20 45 186 45 420 c 0
+328 396 m 0
+ 328 251 364 92 464 92 c 0
+ 540 92 600 167 600 339 c 0
+ 600 439 580 609 458 609 c 0
+ 399 609 357 574 335 542 c 1
+ 333 510 328 440 328 396 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: slash
+Encoding: 47 47 182
+Width: 720
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+37 -368 m 1
+ 499 1230 l 1
+ 680 1244 l 1
+ 214 -356 l 1
+ 37 -368 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: softhyphen
+Encoding: 173 173 183
+Width: 587
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+61 377 m 1
+ 67 546 l 1
+ 525 604 l 1
+ 518 435 l 1
+ 61 377 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: space
+Encoding: 32 32 184
+Width: 508
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Colour: ffff
+EndChar
+
+StartChar: sterling
+Encoding: 163 163 185
+Width: 1206
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 0 m 1
+ 51 106 l 1
+ 217 169 l 1
+ 251 265 258 312 261 460 c 2
+ 263 525 l 1
+ 79 512 l 1
+ 93 655 l 1
+ 265 664 l 1
+ 268 766 l 1
+ 278 1099 523 1252 791 1252 c 0
+ 881 1252 967 1241 1050 1208 c 1
+ 1014 837 l 1
+ 891 854 l 1
+ 831 1068 l 1
+ 797 1084 751 1092 713 1092 c 0
+ 581 1092 544 1004 541 704 c 1
+ 541 670 l 1
+ 791 685 l 1
+ 781 544 l 1
+ 537 531 l 1
+ 535 499 l 1
+ 529 382 530 252 475 165 c 1
+ 864 138 l 1
+ 1029 395 l 1
+ 1160 369 l 1
+ 1114 0 l 1
+ 43 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" sterling.osf
+Colour: ffff
+EndChar
+
+StartChar: t
+Encoding: 116 116 186
+Width: 743
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+41 723 m 1
+ 41 824 l 1
+ 135 888 226 982 296 1082 c 1
+ 404 1082 l 1
+ 404 862 l 1
+ 682 862 l 1
+ 672 720 l 1
+ 401 720 l 1
+ 399 336 l 2
+ 399 220 439 175 547 175 c 0
+ 613 175 675 217 675 217 c 1
+ 700 124 l 1
+ 646 48 545 -23 403 -23 c 0
+ 229 -23 149 49 151 278 c 2
+ 154 723 l 1
+ 41 723 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" t.sc
+Colour: ffff
+EndChar
+
+StartChar: thorn
+Encoding: 254 254 187
+Width: 1085
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 -373 m 1
+ 53 -255 l 1
+ 207 -201 l 1
+ 206 1079 l 1
+ 44 1157 l 1
+ 62 1277 l 1
+ 404 1301 l 1
+ 446 1262 l 1
+ 446 882 l 1
+ 431 760 l 1
+ 444 757 l 1
+ 498 825 586 918 718 918 c 0
+ 888 918 1040 780 1040 480 c 0
+ 1040 166 838 -16 584 -16 c 0
+ 552 -16 489 -14 456 0 c 1
+ 454 164 l 1
+ 665 93 784 197 784 398 c 0
+ 784 590 734 705 624 705 c 0
+ 560 705 498 672 444 628 c 1
+ 444 -203 l 1
+ 644 -253 l 1
+ 627 -373 l 1
+ 40 -373 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" thorn.sc
+Colour: ffff
+EndChar
+
+StartChar: three
+Encoding: 51 51 188
+Width: 958
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+47 42 m 1
+ 111 414 l 1
+ 243 398 l 1
+ 263 150 l 1
+ 285 126 332 104 378 104 c 0
+ 501 104 593 175 593 307 c 0
+ 593 439 480 551 274 537 c 1
+ 249 634 l 1
+ 405 670 561 757 561 898 c 0
+ 561 1013 483 1091 373 1091 c 0
+ 339 1091 304 1079 279 1061 c 1
+ 227 770 l 1
+ 101 782 l 1
+ 60 1104 l 1
+ 108 1154 298 1218 445 1218 c 0
+ 681 1218 866 1146 866 962 c 0
+ 866 800 669 703 549 661 c 1
+ 549 646 l 1
+ 763 638 907 538 909 370 c 0
+ 912 152 665 -24 335 -24 c 0
+ 213 -24 103 10 47 42 c 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" three.osf
+Colour: ffff
+EndChar
+
+StartChar: three.osf
+Encoding: 65543 -1 189
+Width: 819
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+-7 -129 m 0
+ -7 -75 38 0 147 16 c 1
+ 166 -52 226 -184 328 -184 c 0
+ 466 -184 517 -100 517 10 c 0
+ 517 136 417 281 229 273 c 1
+ 211 366 l 1
+ 377 416 484 520 484 662 c 0
+ 484 742 438 812 349 812 c 0
+ 249 812 178 747 134 641 c 1
+ 44 698 l 1
+ 92 860 270 987 436 987 c 0
+ 608 987 744 887 744 717 c 0
+ 744 577 614 449 488 414 c 1
+ 488 396 l 1
+ 684 379 777 229 777 84 c 0
+ 777 -120 554 -302 286 -302 c 0
+ 96 -302 -7 -216 -7 -129 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: threequarters
+Encoding: 190 190 190
+Width: 1640
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 532 m 1
+ 87 770 l 1
+ 203 762 l 1
+ 213 634 l 1
+ 227 622 251 612 277 612 c 0
+ 343 612 389 651 389 718 c 0
+ 389 784 325 842 227 832 c 1
+ 201 924 l 1
+ 275 940 366 980 366 1054 c 0
+ 366 1112 329 1157 273 1157 c 0
+ 255 1157 232 1156 218 1146 c 1
+ 190 992 l 1
+ 79 998 l 1
+ 54 1183 l 1
+ 88 1231 224 1282 329 1282 c 0
+ 497 1282 629 1238 629 1122 c 0
+ 629 1020 517 953 415 927 c 1
+ 415 918 l 1
+ 597 915 665 853 667 743 c 0
+ 669 600 492 484 255 484 c 0
+ 168 484 89 502 49 532 c 1
+257 12 m 1
+ 739 588 l 1
+ 1207 1208 l 1
+ 1445 1206 l 1
+ 1445 1154 l 1
+ 973 591 l 1
+ 541 -26 l 1
+ 257 12 l 1
+921 282 m 1
+ 1375 722 l 1
+ 1459 704 l 1
+ 1454 640 1449 526 1449 428 c 2
+ 1449 293 l 1
+ 1597 293 l 1
+ 1588 160 l 1
+ 1449 160 l 1
+ 1449 73 l 1
+ 1559 50 l 1
+ 1553 -30 l 1
+ 1103 -30 l 1
+ 1107 44 l 1
+ 1225 74 l 1
+ 1225 163 l 1
+ 935 163 l 1
+ 921 282 l 1
+1076 274 m 1
+ 1233 274 l 1
+ 1233 474 l 1
+ 1076 274 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: three.superior
+Encoding: 179 179 191
+Width: 724
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+54 545 m 1
+ 92 783 l 1
+ 208 775 l 1
+ 218 647 l 1
+ 232 635 256 625 282 625 c 0
+ 348 625 394 665 394 732 c 0
+ 394 798 330 855 232 845 c 1
+ 206 937 l 1
+ 280 953 371 994 371 1068 c 0
+ 371 1126 334 1170 278 1170 c 0
+ 260 1170 237 1169 223 1159 c 1
+ 195 1006 l 1
+ 84 1011 l 1
+ 59 1196 l 1
+ 93 1244 229 1296 334 1296 c 0
+ 502 1296 634 1252 634 1136 c 0
+ 634 1034 522 966 420 940 c 1
+ 420 932 l 1
+ 602 929 670 866 672 756 c 0
+ 674 613 497 497 260 497 c 0
+ 173 497 94 515 54 545 c 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: tilde
+Encoding: 732 732 192
+Width: 706
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+76 1349 m 1
+ 68 1409 127 1593 279 1557 c 2
+ 485 1508 l 2
+ 521 1500 548 1554 548 1554 c 1
+ 630 1548 l 1
+ 630 1466 554 1309 404 1346 c 2
+ 217 1392 l 2
+ 175 1402 158 1336 158 1336 c 1
+ 76 1349 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: two
+Encoding: 50 50 193
+Width: 983
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+SplineSet
+783.847 0 m 1
+ 86.6885 0 l 1
+ 81.2134 93.076 l 1
+ 296.565 280.141 l 2
+ 354.054 329.417 354.054 329.417 390.555 363.179 c 0
+ 414.888 385.688 443.023 414.28 474.962 448.956 c 0
+ 506.9 483.631 531.994 515.265 550.244 543.857 c 0
+ 568.494 572.448 584.311 604.843 597.695 641.038 c 0
+ 611.079 677.235 617.77 713.28 617.77 749.171 c 0
+ 617.77 903.08 555.415 979.73 430.705 979.127 c 0
+ 330.937 979.127 250.635 901.867 189.802 747.346 c 1
+ 114.976 774.723 l 1
+ 124.101 813.656 139.766 852.437 161.971 891.067 c 0
+ 184.176 929.698 210.943 964.829 242.271 996.464 c 0
+ 273.602 1028.1 310.557 1053.8 353.142 1073.57 c 0
+ 395.725 1093.34 439.831 1103.23 485.456 1103.23 c 0
+ 583.398 1103.23 657.616 1076.16 708.109 1022.01 c 0
+ 758.601 967.871 783.847 890.307 783.847 789.322 c 0
+ 783.847 757.688 779.285 726.054 770.16 694.421 c 0
+ 761.034 662.787 749.78 633.587 736.396 606.82 c 0
+ 723.013 580.053 705.371 552.07 683.471 522.869 c 0
+ 661.57 493.669 640.583 468.271 620.507 446.674 c 0
+ 600.432 425.078 576.099 400.896 547.506 374.13 c 0
+ 518.915 347.362 494.733 325.766 474.962 309.341 c 0
+ 445.305 284.703 445.305 284.703 401.505 248.203 c 0
+ 357.704 211.702 357.704 211.702 337.63 194.365 c 2
+ 254.591 122.277 l 1
+ 684.383 122.277 l 1
+ 771.984 284.703 l 1
+ 834.948 275.578 l 1
+ 783.847 0 l 1
+EndSplineSet
+Fore
+SplineSet
+49 158 m 1
+ 276 335 l 2
+ 410 442 567 602 567 778 c 0
+ 567 943 518 1049 396 1049 c 0
+ 345 1049 301 1021 279 986 c 1
+ 227 666 l 1
+ 109 685 l 1
+ 70 1013 l 1
+ 156 1127 364 1210 527 1210 c 0
+ 773 1210 894 1064 894 878 c 0
+ 894 582 599 368 419 248 c 2
+ 347 200 l 1
+ 712 200 l 1
+ 820 410 l 1
+ 935 396 l 1
+ 886 0 l 1
+ 55 0 l 1
+ 49 158 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" two.osf
+Colour: ffff
+EndChar
+
+StartChar: two.osf
+Encoding: 65544 -1 194
+Width: 876
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+42 132 m 1
+ 302 321 l 1
+ 454 433 501 556 501 650 c 0
+ 501 767 439 838 345 838 c 0
+ 263 838 187 750 159 650 c 1
+ 64 709 l 1
+ 80 821 221 1012 470 1014 c 0
+ 686 1016 772 851 772 715 c 0
+ 772 545 614 380 436 258 c 1
+ 314 178 l 1
+ 640 178 l 1
+ 737 338 l 1
+ 840 327 l 1
+ 790 0 l 1
+ 61 0 l 1
+ 42 132 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: two.superior
+Encoding: 178 178 195
+Width: 725
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+53 672 m 1
+ 189 775 l 2
+ 310 867 377 958 377 1024 c 0
+ 377 1079 357 1129 287 1129 c 0
+ 253 1129 228 1114 211 1095 c 1
+ 181 944 l 1
+ 92 952 l 1
+ 63 1150 l 1
+ 121 1222 249 1266 371 1266 c 0
+ 555 1266 641 1175 641 1078 c 0
+ 641 925 480 816 340 738 c 2
+ 267 700 l 1
+ 502 690 l 1
+ 585 826 l 1
+ 669 813 l 1
+ 643 530 l 1
+ 57 530 l 1
+ 53 672 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: u
+Encoding: 117 117 196
+Width: 1102
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+41 750 m 1
+ 65 882 l 1
+ 381 903 l 1
+ 421 864 l 1
+ 421 393 l 2
+ 421 253 463 205 539 205 c 0
+ 607 205 647 228 689 268 c 1
+ 689 663 l 1
+ 551 722 l 1
+ 573 872 l 1
+ 899 907 l 1
+ 936 868 l 1
+ 936 294 l 2
+ 936 192 971 171 1059 146 c 2
+ 1095 136 l 1
+ 1079 10 l 1
+ 1011 -15 950 -29 880 -29 c 0
+ 776 -29 708 22 708 118 c 2
+ 708 130 l 1
+ 695 132 l 1
+ 630 28 525 -27 417 -27 c 0
+ 248 -27 172 55 172 267 c 2
+ 172 670 l 1
+ 41 750 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" u.sc
+Colour: ffff
+EndChar
+
+StartChar: uacute
+Encoding: 250 250 197
+Width: 1102
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 S 1 0 0 1 282 -314 2
+Refer: 196 117 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" uacute.sc
+Colour: ffff
+EndChar
+
+StartChar: ucircumflex
+Encoding: 251 251 198
+Width: 1102
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 83 710 S 1 0 0 1 237 -307 2
+Refer: 196 117 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ucircumflex.sc
+Colour: ffff
+EndChar
+
+StartChar: udieresis
+Encoding: 252 252 199
+Width: 1102
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 S 1 0 0 1 211 -307 2
+Refer: 196 117 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" udieresis.sc
+Colour: ffff
+EndChar
+
+StartChar: ugrave
+Encoding: 249 249 200
+Width: 1102
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 116 96 S 1 0 0 1 266 -274 2
+Refer: 196 117 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" ugrave.sc
+Colour: ffff
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 201
+Width: 961
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+60 -131 m 1
+ 74 12 l 1
+ 901 12 l 1
+ 888 -131 l 1
+ 60 -131 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: Germandbls
+Encoding: 7838 7838 202
+Width: 1485
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 0 m 1
+ 54 104 l 1
+ 212 166 l 1
+ 212 740 l 2
+ 212 1104 514 1259 842 1259 c 0
+ 1080 1259 1387 1198 1387 1015 c 0
+ 1387 921 1342 862 1244 828 c 1
+ 1166 973 1082 1071 986 1071 c 0
+ 921 1071 863 1010 863 934 c 0
+ 863 704 1442 728 1442 334 c 0
+ 1442 64 1172 -24 966 -24 c 0
+ 780 -24 628 36 574 124 c 1
+ 597 432 l 1
+ 733 410 l 1
+ 772 228 l 1
+ 811 170 902 128 990 128 c 0
+ 1082 128 1154 154 1154 250 c 0
+ 1154 474 591 438 591 813 c 0
+ 591 969 698 1078 808 1102 c 1
+ 804 1109 l 1
+ 786 1111 754 1112 738 1112 c 0
+ 558 1112 487 976 487 762 c 2
+ 488 0 l 1
+ 43 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" germandbls.sc
+AlternateSubs2: "Neuton-Regular-Alternate Substitution in Latin lookup 0-1" Germandbls.alt
+Colour: ffff
+EndChar
+
+StartChar: Germandbls.alt
+Encoding: 65545 -1 203
+Width: 1497
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 0 m 1
+ 54 106 l 1
+ 215 167 l 1
+ 215 710 l 2
+ 215 1083 486 1272 848 1272 c 0
+ 1078 1272 1271 1244 1365 1212 c 1
+ 1355 1102 l 1
+ 1029 782 l 1
+ 1206 695 1447 633 1447 360 c 0
+ 1447 87 1176 -24 966 -24 c 0
+ 778 -24 625 41 571 128 c 1
+ 595 444 l 1
+ 735 422 l 1
+ 775 234 l 1
+ 814 174 901 129 991 129 c 0
+ 1093 129 1157 186 1157 276 c 0
+ 1157 462 835 587 653 646 c 1
+ 629 704 l 1
+ 1009 1082 l 1
+ 1009 1088 l 1
+ 952 1110 822 1130 770 1130 c 0
+ 562 1130 491 982 491 733 c 2
+ 491 0 l 1
+ 43 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'c2sc' Capitals to Small Capitals in Latin lookup 3-1" germandbls.sc.alt
+Colour: ffff
+EndChar
+
+StartChar: v
+Encoding: 118 118 204
+Width: 1055
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+41 782 m 1
+ 57 898 l 1
+ 556 898 l 1
+ 542 782 l 1
+ 423 734 l 1
+ 574 263 l 1
+ 736 731 l 1
+ 614 782 l 1
+ 634 898 l 1
+ 1017 898 l 1
+ 998 782 l 1
+ 902 734 l 1
+ 635 -8 l 1
+ 432 -30 l 1
+ 158 731 l 1
+ 41 782 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" v.sc
+Colour: ffff
+EndChar
+
+StartChar: w
+Encoding: 119 119 205
+Width: 1356
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+41 782 m 1
+ 58 900 l 1
+ 508 900 l 1
+ 492 784 l 1
+ 387 726 l 1
+ 476 350 l 1
+ 492 348 l 1
+ 608 836 l 1
+ 792 854 l 1
+ 918 342 l 1
+ 936 355 l 1
+ 1016 724 l 1
+ 910 782 l 1
+ 926 900 l 1
+ 1318 900 l 1
+ 1300 784 l 1
+ 1192 726 l 1
+ 998 -10 l 1
+ 813 -34 l 1
+ 674 500 l 1
+ 548 -10 l 1
+ 365 -34 l 1
+ 156 724 l 1
+ 41 782 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" w.sc
+Colour: ffff
+EndChar
+
+StartChar: x
+Encoding: 120 120 206
+Width: 1058
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+49 0 m 1
+ 61 115 l 1
+ 183 162 l 1
+ 393 441 l 1
+ 163 748 l 1
+ 63 788 l 1
+ 83 906 l 1
+ 447 906 l 1
+ 480 812 l 1
+ 433 776 l 1
+ 563 592 l 1
+ 683 753 l 1
+ 583 803 l 1
+ 605 906 l 1
+ 997 906 l 1
+ 979 791 l 1
+ 865 750 l 1
+ 654 486 l 1
+ 887 168 l 1
+ 1002 126 l 1
+ 986 0 l 1
+ 608 0 l 1
+ 573 96 l 1
+ 627 131 l 1
+ 487 332 l 1
+ 369 156 l 1
+ 490 104 l 1
+ 473 0 l 1
+ 49 0 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" x.sc
+Colour: ffff
+EndChar
+
+StartChar: y
+Encoding: 121 121 207
+Width: 1104
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 -240 m 0
+ 40 -188 50 -137 110 -81 c 1
+ 162 -127 230 -150 298 -150 c 0
+ 352 -150 413 -135 454 -45 c 2
+ 470 -9 l 1
+ 172 731 l 1
+ 46 780 l 1
+ 64 898 l 1
+ 551 898 l 1
+ 536 782 l 1
+ 428 735 l 1
+ 601 272 l 1
+ 786 728 l 1
+ 662 782 l 1
+ 683 898 l 1
+ 1064 898 l 1
+ 1052 782 l 1
+ 953 731 l 1
+ 626 -34 l 2
+ 516 -292 415 -381 232 -381 c 0
+ 131 -381 40 -315 40 -240 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" y.sc
+Colour: ffff
+EndChar
+
+StartChar: yacute
+Encoding: 253 253 208
+Width: 1104
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 60 180 N 1 0 0 1 348 -314 2
+Refer: 207 121 N 1 0 0 1 0 0 3
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" yacute.sc
+Colour: ffff
+EndChar
+
+StartChar: ydieresis
+Encoding: 255 255 209
+Width: 1104
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 92 168 N 1 0 0 1 239 -307 2
+Refer: 207 121 N 1 0 0 1 0 0 3
+Colour: ffff
+EndChar
+
+StartChar: yen
+Encoding: 165 165 210
+Width: 1151
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+40 1128 m 1
+ 63 1244 l 1
+ 563 1244 l 1
+ 544 1128 l 1
+ 445 1079 l 1
+ 627 661 l 1
+ 819 1078 l 1
+ 689 1128 l 1
+ 707 1244 l 1
+ 1109 1244 l 1
+ 1093 1128 l 1
+ 974 1080 l 1
+ 739 604 l 1
+ 989 604 l 1
+ 979 485 l 1
+ 701 485 l 1
+ 701 388 l 1
+ 985 388 l 1
+ 973 274 l 1
+ 701 274 l 1
+ 701 158 l 1
+ 847 110 l 1
+ 837 0 l 1
+ 297 0 l 1
+ 311 101 l 1
+ 435 166 l 1
+ 435 274 l 1
+ 157 274 l 1
+ 169 388 l 1
+ 435 388 l 1
+ 435 485 l 1
+ 160 485 l 1
+ 175 604 l 1
+ 403 604 l 1
+ 171 1076 l 1
+ 40 1128 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" yen.osf
+Colour: ffff
+EndChar
+
+StartChar: z
+Encoding: 122 122 211
+Width: 866
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+61 134 m 1
+ 502 764 l 1
+ 260 764 l 1
+ 181 584 l 1
+ 62 606 l 1
+ 79 898 l 1
+ 801 898 l 1
+ 798 781 l 1
+ 336 140 l 1
+ 607 140 l 1
+ 716 320 l 1
+ 821 298 l 1
+ 780 0 l 1
+ 67 0 l 1
+ 61 134 l 1
+EndSplineSet
+Substitution2: "Neuton-Regular-'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" z.sc
+Colour: ffff
+EndChar
+
+StartChar: zero
+Encoding: 48 48 212
+Width: 1003
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+55 584 m 0
+ 55 1039 291 1205 511 1205 c 0
+ 751 1205 944 1044 944 584 c 0
+ 944 118 705 -27 499 -27 c 0
+ 276 -27 55 93 55 584 c 0
+359 587 m 0
+ 359 253 386 106 507 106 c 0
+ 609 106 640 256 640 590 c 0
+ 640 928 609 1062 495 1062 c 0
+ 389 1062 359 927 359 587 c 0
+EndSplineSet
+Substitution2: "Neuton-Regular-'onum' Oldstyle Figures lookup 1-1" zero.osf
+Colour: ffff
+EndChar
+
+StartChar: zero.osf
+Encoding: 65546 -1 213
+Width: 935
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+76 495 m 0
+ 76 785 274 1005 474 1004 c 0
+ 708 1002 858 805 858 511 c 0
+ 858 147 648 -22 468 -22 c 0
+ 290 -22 76 111 76 495 c 0
+345 518 m 0
+ 345 160 394 112 468 112 c 0
+ 540 112 594 158 594 505 c 0
+ 594 841 536 887 470 887 c 0
+ 398 887 345 846 345 518 c 0
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: quoteleft
+Encoding: 8216 8216 214
+Width: 485
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 85 44 S -1 -0 0 -1 461 956 2
+Colour: ffff
+EndChar
+
+StartChar: quoteright
+Encoding: 8217 8217 215
+Width: 487
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 85 44 S 1 0 0 1 24 1053 2
+Colour: ffff
+EndChar
+
+StartChar: quotedblleft
+Encoding: 8220 8220 216
+Width: 896
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+Refer: 85 44 N -1 0 0 -1 872 953 2
+Refer: 85 44 N -1 0 0 -1 462 953 2
+Colour: ffff
+EndChar
+
+StartChar: quotedblright
+Encoding: 8221 8221 217
+Width: 897
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Refer: 85 44 N 1 0 0 1 410 0 2
+Refer: 85 44 N 1 0 0 1 0 0 2
+Refer: 85 44 N 1 0 0 1 410 0 2
+Refer: 85 44 N 1 0 0 1 0 0 2
+Fore
+Refer: 85 44 N 1 0 0 1 434 1050 2
+Refer: 85 44 N 1 0 0 1 24 1050 2
+Colour: ffff
+EndChar
+
+StartChar: micro
+Encoding: 181 181 218
+Width: 1141
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Fore
+SplineSet
+43 754 m 1
+ 66 886 l 1
+ 383 908 l 1
+ 423 868 l 1
+ 423 392 l 2
+ 423 252 465 200 541 200 c 0
+ 609 200 651 229 697 267 c 1
+ 697 668 l 1
+ 551 726 l 1
+ 573 876 l 1
+ 900 912 l 1
+ 937 872 l 1
+ 937 293 l 2
+ 937 189 973 169 1061 144 c 2
+ 1097 135 l 1
+ 1081 8 l 1
+ 1013 -17 951 -30 881 -30 c 0
+ 777 -30 709 22 709 118 c 2
+ 709 128 l 1
+ 697 132 l 1
+ 622 28 523 -28 419 -28 c 0
+ 365 -28 329 -15 303 14 c 1
+ 291 12 l 1
+ 303 -19 310 -69 315 -133 c 2
+ 335 -388 l 1
+ 135 -362 l 1
+ 145 -266 174 246 174 494 c 2
+ 174 674 l 1
+ 43 754 l 1
+EndSplineSet
+Colour: ffff
+EndChar
+
+StartChar: euro.osf
+Encoding: 65547 -1 219
+Width: 1120
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+24 316 m 1
+ 37 432 l 1
+ 658 432 l 1
+ 634 316 l 1
+ 24 316 l 1
+22 499 m 1
+ 37 616 l 1
+ 698 616 l 1
+ 674 499 l 1
+ 22 499 l 1
+134 436 m 0
+ 134 716 310 972 670 972 c 0
+ 795 972 902 925 930 904 c 1
+ 908 611 l 1
+ 784 629 l 1
+ 757 777 l 1
+ 726 813 678 837 608 837 c 0
+ 482 837 420 726 420 498 c 1
+ 420 277 530 151 683 151 c 0
+ 808 151 887 215 923 255 c 1
+ 988 160 l 1
+ 942 76 810 -26 604 -26 c 0
+ 306 -26 134 145 134 436 c 0
+EndSplineSet
+EndChar
+
+StartChar: dollar.osf
+Encoding: 65548 -1 220
+Width: 851
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+40 154 m 0
+ 40 236 100 292 202 300 c 1
+ 242 162 312 94 388 94 c 0
+ 462 94 509 114 509 176 c 0
+ 509 312 70 345 70 629 c 0
+ 70 743 163 924 417 924 c 0
+ 583 924 706 866 706 754 c 0
+ 706 668 632 608 540 600 c 1
+ 518 742 457 808 370 808 c 0
+ 308 808 272 765 272 714 c 0
+ 272 560 729 532 729 246 c 0
+ 729 72 560 -35 360 -35 c 0
+ 188 -35 40 46 40 154 c 0
+320 -196 m 1
+ 341 -15 l 1
+ 463 -6 l 1
+ 483 -178 l 1
+ 320 -196 l 1
+324 1054 m 1
+ 486 1072 l 1
+ 463 898 l 1
+ 347 898 l 1
+ 324 1054 l 1
+EndSplineSet
+EndChar
+
+StartChar: percent.osf
+Encoding: 65549 -1 221
+Width: 1243
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+30 694 m 0
+ 30 826 165 957 288 957 c 0
+ 301 957 301 956 309 954 c 1
+ 317 868 l 17
+ 309 871 299 874 289 874 c 0
+ 236 874 221 792 221 694 c 0
+ 221 596 233 514 291 514 c 0
+ 348 514 361 593 361 694 c 0
+ 361 817 352 895 340 951 c 9
+ 904 956 l 25
+ 912 876 l 25
+ 472 874 l 17
+ 530 822 546 736 546 694 c 0
+ 546 544 407 428 291 428 c 0
+ 151 428 30 525 30 694 c 0
+118 11 m 1
+ 534 478 l 1
+ 904 956 l 1
+ 1116 954 l 1
+ 1115 908 l 1
+ 741 482 l 1
+ 366 -22 l 1
+ 118 11 l 1
+696 232 m 0
+ 696 378 841 494 961 494 c 0
+ 1095 494 1213 382 1213 228 c 0
+ 1213 82 1076 -31 962 -31 c 0
+ 824 -31 696 68 696 232 c 0
+888 227 m 0
+ 888 129 906 58 962 58 c 0
+ 1016 58 1028 129 1028 230 c 0
+ 1028 331 1009 414 961 414 c 0
+ 901 414 888 323 888 227 c 0
+EndSplineSet
+EndChar
+
+StartChar: sterling.osf
+Encoding: 65550 -1 222
+Width: 1163
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+71 0 m 1
+ 77 106 l 1
+ 245 153 l 1
+ 275 213 284 274 284 356 c 2
+ 284 398 l 1
+ 108 389 l 1
+ 119 512 l 1
+ 289 522 l 1
+ 292 618 l 2
+ 304 866 505 972 725 972 c 0
+ 953 972 1049 886 1049 780 c 0
+ 1049 692 947 636 849 636 c 1
+ 835 780 781 860 695 860 c 0
+ 567 860 548 791 548 596 c 2
+ 548 534 l 1
+ 794 544 l 1
+ 784 422 l 1
+ 545 408 l 1
+ 545 389 l 2
+ 545 273 527 197 482 143 c 1
+ 835 128 l 1
+ 958 369 l 1
+ 1081 338 l 1
+ 1060 0 l 1
+ 71 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: yen.osf
+Encoding: 65551 -1 223
+Width: 1118
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+76 838 m 1
+ 98 954 l 1
+ 572 954 l 1
+ 552 838 l 1
+ 470 789 l 1
+ 596 476 l 1
+ 740 786 l 1
+ 646 838 l 1
+ 662 954 l 1
+ 1042 954 l 1
+ 1026 838 l 1
+ 928 788 l 1
+ 716 400 l 1
+ 1004 400 l 1
+ 994 292 l 1
+ 682 292 l 1
+ 682 167 l 1
+ 824 109 l 1
+ 812 0 l 1
+ 286 0 l 1
+ 300 104 l 1
+ 428 168 l 1
+ 428 292 l 1
+ 116 292 l 1
+ 130 400 l 1
+ 390 400 l 1
+ 180 787 l 1
+ 76 838 l 1
+116 499 m 1
+ 130 608 l 1
+ 450 608 l 9
+ 508 499 l 17
+ 116 499 l 1
+680 499 m 9
+ 740 608 l 17
+ 1004 608 l 1
+ 994 499 l 1
+ 680 499 l 9
+EndSplineSet
+EndChar
+
+StartChar: numbersign.osf
+Encoding: 65552 -1 224
+Width: 1033
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+20 224 m 1
+ 64 398 l 9
+ 950 398 l 17
+ 908 224 l 1
+ 20 224 l 1
+78 555 m 17
+ 122 728 l 9
+ 1010 728 l 17
+ 968 555 l 9
+ 78 555 l 17
+201 -26 m 9
+ 358 964 l 17
+ 520 974 l 9
+ 364 -19 l 17
+ 201 -26 l 9
+516 -26 m 9
+ 673 964 l 17
+ 836 974 l 9
+ 678 -19 l 17
+ 516 -26 l 9
+EndSplineSet
+EndChar
+
+StartChar: OE
+Encoding: 338 338 225
+Width: 1770
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+32 619 m 0
+ 32 1015 210 1270 634 1270 c 0
+ 712 1270 774 1260 826 1242 c 1
+ 1684 1244 l 1
+ 1654 875 l 1
+ 1525 894 l 1
+ 1464 1112 l 1
+ 1064 1112 l 1
+ 1064 694 l 1
+ 1304 702 l 1
+ 1334 763 l 1
+ 1494 780 l 1
+ 1461 462 l 1
+ 1310 465 l 1
+ 1284 554 l 1
+ 1064 562 l 1
+ 1064 137 l 1
+ 1504 138 l 1
+ 1626 377 l 1
+ 1750 362 l 1
+ 1720 0 l 1
+ 780 0 l 1
+ 715 -17 645 -27 563 -27 c 0
+ 203 -27 32 229 32 619 c 0
+366 674 m 0
+ 366 482 417 137 636 137 c 0
+ 683 137 733 151 784 181 c 1
+ 784 1092 l 1
+ 726 1121 666 1140 608 1140 c 0
+ 450 1140 366 1010 366 674 c 0
+EndSplineSet
+EndChar
+
+StartChar: oe
+Encoding: 339 339 226
+Width: 1418
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+27 446 m 0
+ 27 751 257 926 480 926 c 0
+ 606 926 723 872 778 804 c 1
+ 848 871 948 924 1062 924 c 0
+ 1244 924 1363 792 1363 580 c 0
+ 1363 549 1351 458 1344 426 c 1
+ 864 421 l 1
+ 868 273 965 146 1128 146 c 0
+ 1201 146 1276 158 1364 206 c 1
+ 1386 113 l 1
+ 1300 11 1143 -30 1012 -30 c 0
+ 897 -30 807 16 737 86 c 1
+ 656 8 568 -28 458 -28 c 0
+ 142 -28 27 193 27 446 c 0
+284 512 m 0
+ 284 288 346 122 490 122 c 0
+ 586 122 638 215 638 358 c 0
+ 638 548 600 772 440 772 c 0
+ 316 772 284 659 284 512 c 0
+863 522 m 1
+ 1105 540 l 1
+ 1109 556 1112 595 1112 610 c 0
+ 1112 702 1079 772 1000 772 c 0
+ 925 772 867 684 863 522 c 1
+EndSplineSet
+EndChar
+
+StartChar: trademark
+Encoding: 8482 8482 227
+Width: 1695
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+718 701 m 1
+ 725 762 l 1
+ 801 791 l 1
+ 830 1176 l 1
+ 748 1198 l 1
+ 753 1261 l 1
+ 1020 1261 l 1
+ 1053 1171 l 1
+ 1138 907 l 1
+ 1227 1179 l 1
+ 1258 1261 l 1
+ 1518 1261 l 1
+ 1511 1198 l 1
+ 1437 1178 l 1
+ 1465 788 l 1
+ 1545 765 l 1
+ 1540 701 l 1
+ 1252 701 l 1
+ 1260 762 l 1
+ 1323 791 l 1
+ 1298 1101 l 1
+ 1177 720 l 1
+ 1055 707 l 1
+ 923 1096 l 1
+ 902 788 l 1
+ 972 765 l 1
+ 963 701 l 1
+ 718 701 l 1
+150 1261 m 1
+ 719 1261 l 1
+ 705 1067 l 1
+ 627 1078 l 1
+ 604 1190 l 1
+ 503 1190 l 1
+ 503 783 l 1
+ 590 763 l 1
+ 583 701 l 1
+ 274 701 l 1
+ 278 759 l 1
+ 356 785 l 1
+ 356 1190 l 1
+ 257 1190 l 1
+ 226 1066 l 1
+ 152 1075 l 1
+ 150 1261 l 1
+EndSplineSet
+EndChar
+
+StartChar: ellipsis
+Encoding: 8230 8230 228
+Width: 405
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 162 46 N 1 0 0 1 720 0 2
+Refer: 162 46 N 1 0 0 1 318 0 2
+Refer: 162 46 S 1 0 0 1 -96 0 2
+EndChar
+
+StartChar: fraction
+Encoding: 8260 8260 229
+Width: 1482
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+150 22 m 1
+ 632 598 l 1
+ 1098 1218 l 1
+ 1332 1216 l 1
+ 1332 1164 l 1
+ 860 601 l 1
+ 428 -16 l 1
+ 150 22 l 1
+EndSplineSet
+EndChar
+
+StartChar: bullet
+Encoding: 8226 8226 230
+Width: 405
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 162 46 S 1.3 0 0 1.3 -61 558 2
+EndChar
+
+StartChar: lozenge
+Encoding: 9674 9674 231
+Width: 865
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+74 475 m 1
+ 428 808 l 1
+ 792 477 l 1
+ 430 139 l 1
+ 74 475 l 1
+EndSplineSet
+EndChar
+
+StartChar: Ydieresis
+Encoding: 376 376 232
+Width: 1310
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+Refer: 54 89 N 1 0 0 1 0 0 3
+Refer: 92 168 S 1 0 0 1 348 36 2
+EndChar
+
+StartChar: Rcaron
+Encoding: 344 344 233
+Width: 1419
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+328 1543 m 5
+ 533 1578 l 5
+ 622 1493 l 5
+ 632 1493 l 5
+ 716 1574 l 5
+ 859 1560 l 5
+ 669 1344 l 5
+ 522 1323 l 5
+ 328 1543 l 5
+EndSplineSet
+Refer: 42 82 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: rcaron
+Encoding: 345 345 234
+Width: 813
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+141 1200 m 5
+ 346 1235 l 5
+ 435 1150 l 5
+ 445 1150 l 5
+ 529 1231 l 5
+ 672 1217 l 5
+ 482 1001 l 5
+ 335 980 l 5
+ 141 1200 l 5
+EndSplineSet
+Refer: 172 114 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ecaron
+Encoding: 282 282 235
+Width: 1236
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+394 1543 m 5
+ 599 1578 l 5
+ 688 1493 l 5
+ 698 1493 l 5
+ 782 1574 l 5
+ 925 1560 l 5
+ 735 1344 l 5
+ 588 1323 l 5
+ 394 1543 l 5
+EndSplineSet
+Refer: 12 69 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ecaron
+Encoding: 283 283 236
+Width: 820
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+212 1200 m 5
+ 417 1235 l 5
+ 506 1150 l 5
+ 516 1150 l 5
+ 600 1231 l 5
+ 743 1217 l 5
+ 553 1001 l 5
+ 406 980 l 5
+ 212 1200 l 5
+EndSplineSet
+Refer: 96 101 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Scaron
+Encoding: 352 352 237
+Width: 984
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+248 1543 m 5
+ 453 1578 l 5
+ 542 1493 l 5
+ 552 1493 l 5
+ 636 1574 l 5
+ 779 1560 l 5
+ 589 1344 l 5
+ 442 1323 l 5
+ 248 1543 l 5
+EndSplineSet
+Refer: 43 83 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: scaron
+Encoding: 353 353 238
+Width: 784
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+136 1200 m 5
+ 341 1235 l 5
+ 430 1150 l 5
+ 440 1150 l 5
+ 524 1231 l 5
+ 667 1217 l 5
+ 477 1001 l 5
+ 330 980 l 5
+ 136 1200 l 5
+EndSplineSet
+Refer: 175 115 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Zcaron
+Encoding: 381 381 239
+Width: 1136
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+292 1543 m 5
+ 497 1578 l 5
+ 586 1493 l 5
+ 596 1493 l 5
+ 680 1574 l 5
+ 823 1560 l 5
+ 633 1344 l 5
+ 486 1323 l 5
+ 292 1543 l 5
+EndSplineSet
+Refer: 56 90 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: zcaron
+Encoding: 382 382 240
+Width: 866
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+147 1200 m 5
+ 352 1235 l 5
+ 441 1150 l 5
+ 451 1150 l 5
+ 535 1231 l 5
+ 678 1217 l 5
+ 488 1001 l 5
+ 341 980 l 5
+ 147 1200 l 5
+EndSplineSet
+Refer: 211 122 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: Ccaron
+Encoding: 268 268 241
+Width: 1232
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+482 1543 m 5
+ 687 1578 l 5
+ 776 1493 l 5
+ 786 1493 l 5
+ 870 1574 l 5
+ 1013 1560 l 5
+ 823 1344 l 5
+ 676 1323 l 5
+ 482 1543 l 5
+EndSplineSet
+Refer: 9 67 N 1 0 0 1 0 0 3
+EndChar
+
+StartChar: ccaron
+Encoding: 269 269 242
+Width: 835
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+240 1206 m 5
+ 445 1241 l 5
+ 534 1156 l 5
+ 544 1156 l 5
+ 628 1237 l 5
+ 771 1223 l 5
+ 581 1007 l 5
+ 434 986 l 5
+ 240 1206 l 5
+EndSplineSet
+Refer: 79 99 N 1 0 0 1 0 0 3
+EndChar
+EndChars
+EndSplineFont

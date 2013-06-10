@@ -1,0 +1,31 @@
+Neuton missing glyphs
+=====================
+
+oe		0153
+OE		0152
+Ydieresis	0178
+ellipses	2026
+quotedblbase	201E
+fraction	2044
+bullet		2022
+trademark	2122
+lozenge		25CA
+
+Rcaron		0158
+rcaron		0159
+Ecaron		011A
+ecaron		011B
+Scaron		0160
+scaron		0161
+Zcaron		017D
+zcaron		017E
+Ccaron		010C
+ccaron		010D
+(from ~Choonzee, dA)
+
+oe.sc		0153
+rcaron.sc	0159
+ecaron.sc	011B
+scaron.sc	0161
+zcaron.sc	017E
+ccaron.sc	010D
