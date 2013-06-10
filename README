@@ -1,0 +1,18 @@
+############################################################
+                            TODO
+############################################################
+
+NEXT STEP...
+
+- Finish Extralight Italic
+
+
+BUGFIXES!
+IN THE REGULAR
+
+- `ñ` right side too wide
+- `„` right side too loose
+
+OVERALL
+
+- Rethink the bounding box? ..too much space on top
