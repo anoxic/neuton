@@ -23,3 +23,15 @@ OVERALL
                    PROGRESS (13 / 60)
 >>>>>>>>>>>>>______________________________________________|
 ############################################################
+
+
+folder structure:
+
+background/model/     photos and scans for inspiration
+background/sketches/  sketches
+bin/                  scripts
+proof/fonts/          proof font files for review
+proof/specimen/       specimens, posters, "propaganda"
+proof/template/       templates for proofs
+release/              release or semi-release versions
+src/                  source files
